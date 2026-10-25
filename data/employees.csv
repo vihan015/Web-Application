@@ -1,0 +1,911 @@
+Employee ID,Department,Job Level,Location,Hire Date,Years Experience,Annual Salary,Performance Rating,Training Hours,Remote Worker,Left Company
+E1289,engineering ,Lead,Mumbai,2008-09-14,17.2,1899000.0,4,23.6,Yes,0
+E1239,People,Mid,Mumbai,09 Jun 2020,5.2,718300.0,5,18.8,Yes,0
+E1816,Sales,Mid,Bengaluru,2020-04-07,5.5,860500.0,4,17.6,Yes,0
+E1076,People,Junior,Bengaluru,22 Sep 2025,0.2,402600.0,4,27.3,Yes,0
+E1092,Sales,Senior,Delhi,2018-10-01,7.0,1259400.0,3,30.4,No,1
+E1758,Engineering,Mid,Hyderabad,2022-02-20,3.5,904200.0,4,23.0,No,0
+E1423,Finance,Mid,Hyderabad,2020-03-14,5.8,809100.0,3,18.8,No,0
+E1770,Operations,Mid,,2020-12-09,5.0,695500.0,3,45.1,No,0
+E1539,Sales,Junior,Delhi,2025-05-21,0.2,427800.0,4,20.3,No,0
+E1155,People,Mid,Bengaluru,2019-01-31,6.7,685500.0,2,,No,0
+E1894,Engineering,Junior,Bengaluru,2023-03-20,2.6,474500.0,1,58.3,Yes,0
+E1072,Operations,Lead,Hyderabad,2012-05-23,13.1,1881100.0,5,24.3,Yes,0
+E1682,Sales,Senior,Pune,2016-07-12,9.2,1155100.0,2,23.6,Yes,0
+E1047,Sales,Senior,Mumbai,2015-10-23,9.7,1544400.0,4,18.7,No,1
+E1326,Engineering,Lead,Pune,2009-10-26,15.7,2653400.0,3,26.1,Yes,0
+E1618,Operations,Mid,Hyderabad,2022-03-04,3.8,692100.0,4,38.7,Yes,0
+E1104,Operations,Junior,Hyderabad,2025-10-01,0.2,317300.0,3,18.5,No,0
+E1409,Operations,Senior,Pune,2016-10-19,9.0,1224800.0,4,30.2,No,0
+E1504,Operations,Lead,Bengaluru,02/15/2011,14.5,1914100.0,3,22.4,Yes,0
+E1340,Engineering,Junior,Bengaluru,2025-05-06,0.2,477500.0,5,22.0,Yes,0
+E1337,Engineering,Mid,Pune,2020-04-24,5.5,882700.0,2,13.4,Yes,1
+E1321,Engineering,Junior,Bengaluru,09/08/2023,2.3,517600.0,5,23.2,No,0
+E1228,Operations,Senior,Bengaluru,10 Jul 2015,10.0,1146700.0,3,32.0,No,1
+E1489,Operations,Mid,Pune,10 May 2022,3.3,665500.0,3,14.8,No,0
+E1544,Operations,Junior,Mumbai,2021-09-16,4.0,,3,29.1,Yes,0
+E1063,Engineering,Junior,Pune,2024-09-25,0.8,505700.0,4,14.2,No,0
+E1273,Operations,Lead,Bengaluru,03/19/2014,11.7,2253600.0,4,38.7,Yes,1
+E1133,Engineering,Junior,Delhi,2021-05-15,4.5,507700.0,3,4.0,No,0
+E1777,Marketing,Mid,Delhi,2021-10-30,3.9,801800.0,3,62.9,Yes,0
+E1180,People,Lead,Delhi,2007-12-13,18.0,1854400.0,3,37.2,Yes,0
+E1300,Marketing,Junior,Mumbai,07/03/2023,2.0,468400.0,3,34.3,No,0
+E1345,People,Senior,Bengaluru,2016-03-16,9.4,1242900.0,3,19.7,No,0
+E1757,Engineering,Mid,Pune,2023-12-30,2.0,930300.0,4,6.6,No,1
+E1459,Sales,Junior,Pune,11 Sep 2024,1.0,477000.0,4,16.1,Yes,1
+E1795,Marketing,Junior,Bengaluru,2024-07-13,1.0,392800.0,2,39.9,Yes,1
+E1432,Marketing,Mid,Bengaluru,2019-07-27,6.2,675100.0,3,6.4,Yes,0
+E1402,Engineering,Junior,Bengaluru,2025-08-02,0.2,518200.0,4,5.2,No,0
+E1224,Marketing,Senior,Delhi,01 Jul 2017,8.0,1204000.0,2,10.2,No,0
+E1861,Marketing,Junior,Pune,2024-10-03,1.0,434600.0,3,18.2,No,0
+E1664,engineering ,Senior,Pune,2014-03-02,11.3,1459200.0,5,25.2,No,0
+E1152,Finance,Mid,Mumbai,2021-01-19,4.6,903800.0,4,11.7,No,0
+E1724,Engineering,Senior,Hyderabad,2016-12-04,8.8,1525300.0,3,16.0,No,0
+E1070,engineering ,Junior,Mumbai,2025-09-14,0.2,477200.0,5,12.7,Yes,0
+E1115,engineering ,Junior,Mumbai,16 Oct 2025,0.2,452000.0,3,16.5,No,0
+E1775,Engineering,Junior,Delhi,2023-10-08,1.8,499800.0,4,19.0,Yes,1
+E1822,Operations,Senior,Bengaluru,2016-12-22,8.8,1142700.0,4,26.7,No,0
+E1433,Marketing,Mid,Pune,2022-03-24,3.5,712000.0,4,13.1,No,0
+E1697,Marketing,Mid,Bengaluru,2018-01-29,7.5,803100.0,4,21.0,No,0
+E1238,Marketing,Senior,Bengaluru,25 Jul 2015,10.1,1432700.0,3,14.6,No,0
+E1623,Engineering,Mid,Bengaluru,2020-11-01,4.9,885300.0,4,13.9,Yes,0
+E1650,Finance,Senior,Bengaluru,2018-06-25,7.4,1475800.0,2,23.4,Yes,1
+E1545,Sales,Lead,Mumbai,16 Sep 2010,15.1,2305100.0,3,14.5,No,0
+E1236,Finance,Junior,Bengaluru,2022-11-16,2.8,,4,38.8,Yes,0
+E1434,People,Mid,Bengaluru,01 Nov 2021,4.0,770100.0,4,36.2,Yes,0
+E1479,Engineering,Senior,Delhi,2013-07-01,12.2,1397900.0,4,6.0,Yes,1
+E1601,Operations,Senior,Bengaluru,2019-06-20,6.3,1187800.0,5,3.6,No,0
+E1462,Sales,Senior,Bengaluru,2018-06-17,7.3,1542000.0,3,18.4,Yes,1
+E1698,Marketing,Junior,Delhi,2023-12-20,1.5,361900.0,2,27.1,No,0
+E1055,Engineering,Junior,,2022-09-06,3.3,497200.0,3,14.3,No,1
+E1299,Sales,Junior,Pune,2022-01-11,3.6,525600.0,3,13.0,Yes,1
+E1364,Marketing,Lead,Pune,20 Dec 2012,12.8,2009900.0,3,10.7,No,0
+E1354,Engineering,Lead,Bengaluru,04 Feb 2014,11.8,2699200.0,3,13.8,No,0
+E1035,Engineering,Junior,Pune,2022-12-04,2.7,537900.0,4,22.5,Yes,0
+E1593,Marketing,Junior,Bengaluru,2024-07-01,1.5,457300.0,3,28.4,Yes,0
+E1138,Sales,Lead,Mumbai,2011-08-10,14.1,1752200.0,3,,No,0
+E1703,Operations,Junior,Bengaluru,03/04/2021,4.8,352300.0,3,20.2,Yes,0
+E1629,Engineering,Junior,Delhi,2021-12-07,3.6,577900.0,4,18.3,No,0
+E1406,Marketing,Junior,Pune,06 Oct 2022,3.2,460400.0,4,32.0,No,0
+E1067,Engineering,Mid,Mumbai,2021-04-05,4.3,917300.0,2,55.0,No,0
+E1830,Operations,Senior,Delhi,2017-07-13,8.4,1059900.0,3,25.2,No,0
+E1612,Operations,Lead,Hyderabad,2010-03-03,15.8,2115600.0,3,27.9,No,0
+E1066,Sales,Mid,Mumbai,2020-05-24,5.4,753500.0,4,16.0,No,0
+E1395,Engineering,Lead,Pune,12/20/2010,15.0,2579500.0,3,,No,0
+E1191,Marketing,Mid,Bengaluru,2022-09-19,3.0,711000.0,3,32.8,No,0
+E1157,Sales,Junior,Hyderabad,04/17/2025,0.4,453400.0,3,20.7,No,0
+E1520,Sales,Mid,Pune,2019-04-01,6.5,858000.0,5,29.1,No,0
+E1678,Operations,Lead,Mumbai,2010-03-29,15.5,2100500.0,3,25.9,No,0
+E1424,Engineering,Mid,Hyderabad,2020-10-27,5.1,936200.0,5,30.2,No,0
+E1582,Engineering,Junior,Pune,2023-10-13,1.7,511500.0,2,46.5,No,0
+E1282,Engineering,Mid,Delhi,2020-10-22,4.9,827600.0,2,9.0,Yes,0
+E1675,Operations,Junior,Pune,2024-03-28,1.4,423300.0,3,47.6,No,0
+E1209,Engineering,Mid,Pune,2019-04-03,6.5,961400.0,4,45.1,Yes,0
+E1859,Engineering,Junior,Hyderabad,2024-02-09,1.5,516900.0,5,23.9,No,0
+E1287,Sales,Mid,Bengaluru,2019-11-07,5.9,815000.0,2,8.6,No,0
+E1836,Finance,Junior,Bengaluru,08 Jul 2023,2.0,512100.0,4,27.3,Yes,0
+E1147,Sales,Senior,Mumbai,2015-01-14,10.6,1190800.0,2,10.5,No,0
+E1065,Engineering,Mid,Bengaluru,2022-03-29,3.4,877800.0,3,16.0,No,0
+E1837,Operations,Lead,Hyderabad,2010-05-13,15.2,2099000.0,3,20.2,No,0
+E1437,Marketing,Senior,Mumbai,2017-06-29,8.4,1368500.0,3,32.4,No,1
+E1336,Operations,Senior,Bengaluru,28 Sep 2018,6.9,1229700.0,4,11.4,No,0
+E1285,Engineering,Senior,Hyderabad,2017-07-03,8.2,1742100.0,4,27.3,Yes,0
+E1741,People,Mid,Mumbai,2021-08-21,3.9,732900.0,2,18.2,No,1
+E1374,Engineering,Senior,Bengaluru,21 Oct 2018,6.9,1662300.0,3,20.2,Yes,0
+E1710,Operations,Mid,Hyderabad,12/28/2016,8.6,665200.0,3,23.3,No,1
+E1170,Sales,Mid,Mumbai,2022-11-10,2.8,755500.0,4,,Yes,0
+E1399,Marketing,Senior,Pune,2017-09-13,8.0,1332800.0,3,17.2,Yes,1
+E1685,Engineering,Junior,Delhi,2024-03-07,1.5,501100.0,3,20.3,No,0
+E1573,Operations,Senior,Mumbai,2015-03-07,10.3,1382400.0,3,40.8,Yes,0
+E1864,Engineering,Junior,Bengaluru,2025-01-07,0.9,536200.0,4,7.8,No,0
+E1521,Marketing,Mid,Bengaluru,2021-05-28,4.1,780100.0,3,34.8,No,0
+E1535,Engineering,Senior,Delhi,18 Dec 2013,11.5,1348200.0,5,53.6,Yes,0
+E1892,Sales,Lead,Pune,2010-05-13,15.6,2449500.0,4,35.7,No,0
+E1225,Engineering,Senior,Bengaluru,2020-02-16,5.6,1557500.0,5,8.2,Yes,0
+E1646,Finance,Mid,Bengaluru,2022-05-04,3.5,1001400.0,4,15.6,Yes,0
+E1411,Marketing,Senior,Hyderabad,02 May 2016,9.3,1335900.0,4,17.4,Yes,1
+E1773,Finance,Lead,Mumbai,18 Oct 2008,16.8,2278400.0,3,2.4,Yes,0
+E1427,Sales,Junior,Delhi,2022-05-24,3.3,446400.0,3,7.9,Yes,0
+E1517,Finance,Mid,Mumbai,2020-05-23,5.1,829500.0,3,14.3,No,0
+E1507,Sales,Junior,Bengaluru,07 Sep 2023,2.3,442200.0,3,16.5,Yes,0
+E1353,Sales,Junior,Mumbai,2024-05-29,1.1,441600.0,2,11.7,No,0
+E1077,engineering ,Senior,Bengaluru,2018-11-02,7.0,1116900.0,3,9.7,Yes,0
+E1873,People,Mid,Hyderabad,14 Apr 2021,4.4,698700.0,3,13.4,Yes,0
+E1164,Marketing,Mid,Bengaluru,2021-09-04,4.0,774800.0,4,37.5,No,0
+E1458,Finance,Mid,Pune,25 Apr 2020,5.2,851700.0,3,12.5,No,0
+E1175,Sales,Lead,Bengaluru,2012-07-28,12.9,2254700.0,4,11.6,No,0
+E1154,Marketing,Senior,,2018-01-26,7.9,1370700.0,2,30.5,No,0
+E1419,Engineering,Mid,Hyderabad,2023-01-21,2.9,772900.0,4,15.6,Yes,0
+E1700,Marketing,Senior,Delhi,2014-12-31,10.6,1378900.0,2,19.9,No,0
+E1074,Engineering,Mid,,2022-02-06,3.4,986800.0,3,25.2,No,0
+E1899,Engineering,Junior,Mumbai,2025-05-08,0.2,476000.0,4,13.6,No,0
+E1839,Marketing,Junior,Hyderabad,08 May 2025,0.2,445800.0,5,37.0,No,0
+E1584,Engineering,Junior,Hyderabad,10/18/2025,0.2,590600.0,3,37.3,No,0
+E1856,engineering ,Mid,Bengaluru,2019-12-11,5.9,707300.0,5,17.5,No,0
+E1110,Operations,Lead,Delhi,2011-08-01,14.3,1894700.0,3,38.1,No,0
+E1270,Marketing,Junior,Mumbai,2025-04-26,0.2,464700.0,4,37.6,No,0
+E1178,Finance,Mid,Delhi,2020-08-04,4.9,841300.0,5,45.1,No,0
+E1730,Engineering,Mid,Hyderabad,2017-10-15,8.2,922000.0,5,31.5,No,0
+E1731,Sales,Junior,Delhi,2024-12-11,0.9,495300.0,5,9.8,Yes,0
+E1127,Sales,Mid,Bengaluru,14 Jan 2018,7.8,699100.0,5,72.3,No,0
+E1780,engineering ,Senior,Bengaluru,2018-04-28,7.6,1665700.0,3,22.5,No,0
+E1011,Engineering,Senior,Mumbai,2017-11-16,8.0,1603300.0,3,16.0,Yes,1
+E1359,Finance,Lead,Delhi,2011-02-06,14.4,2121100.0,4,7.8,No,0
+E1342,Finance,Mid,Mumbai,02 Jul 2020,5.4,963400.0,4,4.4,Yes,0
+E1112,Engineering,Junior,Delhi,05/16/2025,0.2,576200.0,2,16.6,No,1
+E1452,Operations,Junior,Delhi,16 Feb 2021,4.4,450400.0,4,26.3,No,1
+E1792,People,Junior,Bengaluru,2025-09-30,0.2,459600.0,4,14.5,Yes,0
+E1481,Engineering,Junior,Pune,2025-03-20,0.6,505000.0,3,48.4,No,0
+E1495,Engineering,Junior,Bengaluru,2022-12-20,2.8,543600.0,3,17.7,No,0
+E1163,Engineering,Senior,Bengaluru,2015-02-10,10.5,1748700.0,2,46.7,Yes,0
+E1585,engineering ,Junior,Hyderabad,04/02/2024,1.5,399400.0,3,35.0,No,0
+E1247,Finance,Mid,Bengaluru,2019-09-12,6.1,804200.0,4,13.2,No,0
+E1036,Sales,Lead,Hyderabad,03 Nov 2010,15.1,2227100.0,2,30.0,No,0
+E1358,Engineering,Senior,Mumbai,2019-05-27,6.5,1656700.0,5,26.2,No,1
+E1290,Engineering,Junior,Mumbai,03/01/2022,3.4,511400.0,2,23.2,Yes,0
+E1124,Finance,Lead,Mumbai,2012-01-21,13.7,2258000.0,4,14.3,Yes,0
+E1898,Marketing,Senior,Mumbai,2016-10-18,9.2,1526900.0,2,23.7,No,0
+E1215,Engineering,Senior,Hyderabad,2017-09-25,7.8,1258400.0,4,8.4,No,1
+E1153,Finance,Mid,Mumbai,2023-04-21,2.6,873300.0,1,20.3,No,0
+E1463,Sales,Lead,Pune,2010-06-19,15.4,2116500.0,3,32.8,Yes,0
+E1525,Marketing,Lead,Delhi,2010-10-18,14.7,2481300.0,4,13.5,No,0
+E1295,People,Mid,Bengaluru,2018-08-24,7.2,738500.0,4,20.9,Yes,0
+E1802,Operations,Junior,Bengaluru,10 Dec 2024,0.8,379000.0,3,28.1,No,1
+E1062,Finance,Junior,Delhi,03 Jan 2024,1.6,460800.0,4,23.8,Yes,1
+E1508,Engineering,Senior,Pune,2015-07-01,10.4,1644200.0,4,32.2,Yes,0
+E1193,Marketing,Lead,Mumbai,2011-09-04,13.9,2010000.0,3,27.5,No,1
+E1524,Sales,Senior,Hyderabad,2018-06-07,7.5,1533600.0,1,43.4,No,0
+E1307,Sales,Junior,Hyderabad,2023-01-31,2.8,483600.0,3,2.0,Yes,0
+E1541,Finance,Mid,Pune,03/22/2022,3.7,909500.0,4,8.6,No,0
+E1671,Engineering,Mid,Pune,2017-12-14,7.6,798200.0,2,,No,1
+E1013,Sales,Mid,Bengaluru,2019-09-25,6.0,737800.0,3,24.0,Yes,0
+E1179,Engineering,Lead,Hyderabad,2012-06-27,13.0,2517400.0,2,5.1,No,0
+E1330,Marketing,Mid,Bengaluru,2019-04-19,6.4,845800.0,4,22.7,No,0
+E1645,Finance,Mid,Pune,2021-05-26,4.1,855500.0,3,35.5,Yes,1
+E1738,Sales,Junior,Mumbai,2024-03-31,1.7,425900.0,4,27.5,No,0
+E1817,Sales,Mid,Delhi,2022-02-04,3.8,,3,9.9,Yes,1
+E1260,Engineering,Senior,Pune,2017-03-09,8.7,1789600.0,2,13.0,Yes,0
+E1695,Marketing,Senior,Pune,2015-11-08,9.8,1136000.0,3,3.4,No,0
+E1620,Engineering,Junior,Bengaluru,2025-07-08,0.2,514200.0,3,28.4,No,0
+E1034,Finance,Junior,Mumbai,16 Sep 2019,6.2,489800.0,2,28.2,No,0
+E1384,Engineering,Senior,Hyderabad,2015-06-02,10.3,1582500.0,3,8.7,Yes,1
+E1288,Finance,Mid,Mumbai,04/02/2019,6.4,877200.0,3,47.4,Yes,0
+E1563,Engineering,Junior,Hyderabad,01 May 2025,0.2,580400.0,3,36.0,Yes,0
+E1372,People,Senior,Mumbai,2016-10-29,9.1,1187900.0,4,29.6,No,0
+E1017,Operations,Lead,Delhi,02 Oct 2010,14.8,1780500.0,3,19.6,No,0
+E1324,People,Mid,Pune,2021-01-31,4.7,689700.0,3,41.9,Yes,0
+E1357,Sales,Mid,Mumbai,2022-05-19,3.4,694400.0,3,24.0,No,0
+E1033,Engineering,Mid,Mumbai,2019-08-28,6.2,969400.0,3,33.9,No,0
+E1347,People,Mid,Bengaluru,2024-02-15,1.8,695400.0,4,19.3,No,0
+E1146,Engineering,Junior,Pune,2025-04-12,0.2,492500.0,4,27.6,Yes,0
+E1806,People,Senior,Mumbai,2018-05-21,7.6,1429100.0,3,19.6,No,0
+E1557,Engineering,Mid,Hyderabad,2022-10-24,2.8,835900.0,4,79.4,No,0
+E1376,Engineering,Mid,Pune,2019-04-06,6.2,887700.0,3,47.2,No,0
+E1089,Engineering,Junior,Bengaluru,25 Jul 2024,0.9,509500.0,3,26.5,Yes,1
+E1254,Engineering,Mid,,2023-05-23,2.5,996900.0,3,13.7,No,0
+E1838,Engineering,Junior,Bengaluru,2023-02-17,2.7,564200.0,4,29.1,Yes,0
+E1860,Sales,Mid,Bengaluru,2020-09-12,5.1,831400.0,3,50.7,No,0
+E1262,Engineering,Lead,Pune,2013-01-22,12.7,2115300.0,2,40.9,Yes,1
+E1611,Finance,Senior,Bengaluru,13 Jun 2017,8.3,1505900.0,3,1.2,No,0
+E1790,People,Junior,Bengaluru,03 Feb 2022,3.9,406300.0,3,27.8,No,0
+E1737,Finance,Senior,Bengaluru,13 Apr 2017,8.7,1441000.0,3,19.2,Yes,0
+E1882,Engineering,Mid,Delhi,07/21/2022,3.2,1030200.0,2,30.0,Yes,0
+E1042,Sales,Lead,Bengaluru,25 Aug 2012,13.0,2161700.0,4,59.8,Yes,0
+E1580,People,Junior,Mumbai,2024-09-30,1.0,426900.0,2,55.6,No,0
+E1815,Operations,Mid,Hyderabad,2021-05-05,4.3,717600.0,2,31.9,Yes,1
+E1574,Finance,Mid,Bengaluru,14 Dec 2019,5.7,784500.0,3,19.7,No,0
+E1194,Engineering,Mid,Mumbai,2021-04-10,4.7,750000.0,2,35.4,No,0
+E1884,Engineering,Lead,,02/17/2011,14.6,2679800.0,5,17.5,No,0
+E1846,Marketing,Junior,Bengaluru,24 Apr 2025,0.2,433100.0,4,26.1,Yes,0
+E1538,Operations,Mid,Pune,03/22/2021,4.7,,4,9.5,Yes,0
+E1385,Sales,Senior,Pune,2013-05-29,12.4,1306800.0,4,15.8,Yes,1
+E1702,Marketing,Junior,Delhi,2025-03-08,0.6,452600.0,3,30.2,No,0
+E1681,Sales,Senior,Bengaluru,22 Jun 2016,9.0,1415700.0,5,4.8,Yes,0
+E1120,Engineering,Senior,Bengaluru,2017-02-09,8.8,1736800.0,5,34.2,No,0
+E1621,Engineering,Junior,Hyderabad,2023-09-04,1.9,514700.0,4,14.8,Yes,1
+E1106,Marketing,Junior,Delhi,2025-01-16,0.8,418100.0,4,14.6,Yes,0
+E1644,Sales,Mid,Mumbai,2022-07-14,3.3,843900.0,3,32.1,Yes,0
+E1113,People,Junior,Delhi,2025-06-05,0.2,393400.0,2,9.3,No,0
+E1763,Engineering,Mid,Bengaluru,2021-07-24,4.2,912000.0,3,40.5,Yes,1
+E1136,engineering ,Junior,Hyderabad,2024-05-08,1.2,386500.0,5,33.3,No,0
+E1865,Engineering,Senior,Pune,2017-02-03,8.5,1642200.0,4,44.3,Yes,0
+E1760,Sales,Junior,Delhi,14 Aug 2021,4.0,455400.0,4,14.8,No,0
+E1397,Engineering,Senior,Bengaluru,27 Jun 2016,9.1,1747400.0,4,11.1,No,1
+E1244,Engineering,Junior,Bengaluru,2023-05-20,2.1,492500.0,5,55.3,No,0
+E1471,Sales,Senior,Pune,2014-09-14,11.0,1364800.0,3,36.9,Yes,1
+E1310,Sales,Senior,Pune,2017-11-03,7.9,1286600.0,4,45.7,No,0
+E1425,People,Lead,Delhi,2010-10-12,14.7,2222200.0,5,32.4,No,0
+E1833,Marketing,Mid,Delhi,20 Dec 2020,4.9,698200.0,3,18.4,No,0
+E1886,Engineering,Junior,Bengaluru,2023-10-09,2.0,511100.0,2,8.4,Yes,0
+E1633,Engineering,Mid,Bengaluru,2019-09-28,5.9,983600.0,5,30.5,Yes,0
+E1768,Operations,Lead,Delhi,2010-04-02,15.4,2148300.0,3,17.6,Yes,0
+E1461,Operations,Junior,Pune,2023-11-15,1.6,372900.0,4,27.3,No,0
+E1090,Engineering,Mid,Delhi,2022-01-01,3.5,901000.0,4,17.4,Yes,0
+E1619,Finance,Junior,Hyderabad,2025-08-07,0.2,473200.0,3,36.4,Yes,1
+E1214,Operations,Senior,Pune,06 Jan 2016,9.5,1152800.0,3,30.8,Yes,0
+E1558,Engineering,Lead,Pune,2010-03-07,15.8,2454100.0,3,2.6,No,0
+E1472,Operations,Junior,Mumbai,2022-11-12,2.6,405100.0,3,4.1,No,0
+E1220,Operations,Senior,Mumbai,2015-04-21,10.5,1120400.0,4,44.5,Yes,0
+E1221,Engineering,Junior,Delhi,2024-03-17,1.4,588900.0,2,20.1,Yes,0
+E1431,Engineering,Mid,Bengaluru,2018-08-22,7.0,913000.0,4,16.1,No,0
+E1283,Sales,Mid,Hyderabad,13 Jun 2019,6.3,813800.0,2,20.9,Yes,0
+E1253,Engineering,Lead,Pune,2010-08-19,15.0,2773600.0,4,42.5,Yes,0
+E1408,Engineering,Senior,Delhi,2015-12-08,9.8,1657800.0,3,11.2,No,0
+E1323,Operations,Lead,,2011-06-01,14.2,1754200.0,3,7.0,Yes,0
+E1829,Engineering,Mid,Pune,2021-01-09,4.9,936600.0,4,23.3,No,0
+E1390,Finance,Mid,Delhi,04/21/2022,3.2,751000.0,3,10.5,No,0
+E1325,Engineering,Mid,Pune,2019-06-01,6.4,912000.0,3,37.2,Yes,0
+E1522,engineering ,Senior,Pune,2016-10-16,8.7,1696900.0,5,17.7,Yes,0
+E1278,Operations,Mid,Bengaluru,2021-08-16,3.9,751000.0,3,29.8,Yes,0
+E1436,Sales,Mid,Pune,12 Nov 2021,4.1,857100.0,4,16.9,No,0
+E1053,Sales,Junior,Bengaluru,22 Jun 2025,0.2,452600.0,4,14.0,Yes,0
+E1705,Engineering,Mid,Mumbai,2020-08-27,4.9,814000.0,4,13.7,Yes,0
+E1592,People,Mid,Bengaluru,2022-04-02,3.4,648600.0,4,37.3,Yes,0
+E1511,Operations,Senior,Bengaluru,06 May 2017,8.5,1441200.0,5,19.9,No,1
+E1571,Engineering,Senior,Mumbai,04 May 2016,9.5,1637900.0,2,23.8,No,0
+E1852,Engineering,Lead,Pune,2011-04-17,14.5,2543600.0,3,36.0,No,0
+E1786,People,Senior,Hyderabad,2015-06-27,10.1,1289100.0,3,13.8,Yes,0
+E1189,Engineering,Mid,Hyderabad,2021-05-19,4.4,887600.0,2,28.7,Yes,0
+E1704,Marketing,Mid,Bengaluru,2022-07-16,3.4,686800.0,2,16.9,Yes,0
+E1050,Sales,Mid,Bengaluru,2018-11-30,6.6,806400.0,3,12.2,Yes,0
+E1803,Sales,Senior,Hyderabad,28 Jun 2014,11.2,1235900.0,2,11.4,No,0
+E1649,People,Junior,Mumbai,2023-11-02,1.9,395100.0,3,8.3,Yes,0
+E1835,Engineering,Mid,Pune,2023-05-12,2.3,939600.0,4,38.4,No,0
+E1405,People,Junior,Mumbai,2025-07-06,0.2,414800.0,5,14.4,No,0
+E1083,Engineering,Junior,Mumbai,05 Dec 2023,1.7,597800.0,3,8.0,Yes,0
+E1630,Marketing,Mid,Pune,2020-01-30,5.5,789400.0,3,37.2,No,0
+E1588,Marketing,Senior,Hyderabad,15 Feb 2018,7.6,1401700.0,3,8.9,Yes,0
+E1762,Engineering,Senior,Mumbai,2016-09-26,9.2,1703300.0,3,30.8,No,0
+E1689,People,Mid,Bengaluru,2022-01-15,3.8,802200.0,3,57.2,Yes,0
+E1735,Sales,Junior,Hyderabad,2023-10-07,2.2,453000.0,4,12.7,Yes,0
+E1167,Finance,Junior,Pune,2021-09-10,3.8,498500.0,4,5.2,No,1
+E1139,engineering ,Junior,Delhi,03 Sep 2024,1.2,410800.0,4,8.7,No,0
+E1184,People,Junior,Mumbai,2025-01-30,0.8,367000.0,5,15.4,No,1
+E1842,Marketing,Junior,Pune,2023-05-27,2.1,409000.0,4,23.2,No,0
+E1694,Engineering,Senior,Delhi,03/17/2016,9.4,1356700.0,4,17.1,Yes,1
+E1380,Engineering,Junior,Bengaluru,2024-12-22,0.8,489300.0,5,14.8,No,1
+E1617,Engineering,Senior,Bengaluru,09 Jun 2015,10.2,1431200.0,3,30.4,Yes,0
+E1825,Operations,Mid,Bengaluru,02 Mar 2019,6.6,667500.0,4,14.4,No,0
+E1782,Engineering,Senior,Hyderabad,08 Feb 2017,8.4,1684900.0,5,31.1,Yes,0
+E1575,Engineering,Mid,Pune,2020-04-18,5.5,929200.0,3,6.0,No,0
+E1614,Engineering,Mid,Hyderabad,2018-06-24,7.3,1002500.0,5,57.9,No,0
+E1304,Finance,Senior,,01/30/2017,8.6,1451200.0,4,28.8,No,0
+E1869,Engineering,Senior,Pune,2019-10-02,5.8,1519000.0,3,14.1,No,0
+E1444,Engineering,Junior,Mumbai,2024-03-17,1.4,467500.0,4,23.4,Yes,0
+E1306,Sales,Junior,Delhi,10 Oct 2025,0.2,421700.0,3,9.7,No,0
+E1673,Operations,Senior,Bengaluru,2016-12-15,9.0,1171600.0,3,15.4,Yes,0
+E1530,Engineering,Lead,Pune,2011-10-13,13.7,2330200.0,4,19.9,No,0
+E1567,Marketing,Junior,Bengaluru,04/27/2023,2.2,,4,27.7,No,1
+E1413,Sales,Senior,Hyderabad,2016-06-10,9.1,1481100.0,3,9.4,No,0
+E1863,Sales,Mid,Hyderabad,2018-01-26,7.6,775000.0,2,31.9,No,1
+E1213,Marketing,Mid,Mumbai,2020-02-22,5.8,737400.0,2,18.0,No,0
+E1446,Operations,Junior,Hyderabad,2022-12-13,3.0,439500.0,3,19.6,No,0
+E1692,Sales,Junior,Bengaluru,27 May 2025,0.4,338000.0,5,49.1,No,0
+E1031,Engineering,Junior,Pune,2023-05-09,2.3,509000.0,3,7.9,Yes,0
+E1286,engineering ,Junior,Hyderabad,08/23/2025,0.2,487200.0,2,10.2,No,0
+E1745,Engineering,Senior,Pune,2016-12-13,9.0,1550000.0,5,15.6,Yes,0
+E1401,People,Senior,Bengaluru,2017-01-31,8.8,1248600.0,3,11.0,Yes,0
+E1755,Engineering,Junior,Hyderabad,2025-05-27,0.2,495100.0,4,32.9,No,0
+E1482,Sales,Mid,Delhi,2022-10-03,3.0,830400.0,3,18.7,No,0
+E1203,Engineering,Senior,Mumbai,2014-07-29,11.1,1905300.0,4,,No,0
+E1383,Engineering,Junior,Hyderabad,2025-09-13,0.2,498000.0,4,43.6,Yes,0
+E1754,Engineering,Mid,Hyderabad,2020-01-02,5.5,882100.0,2,10.4,No,0
+E1798,Finance,Junior,Pune,2024-05-09,1.2,491800.0,3,42.1,Yes,0
+E1465,Sales,Senior,Pune,22 Sep 2015,9.9,1380900.0,3,16.0,No,0
+E1135,Sales,Lead,Hyderabad,2011-11-21,13.6,2148100.0,3,24.1,No,1
+E1430,Finance,Senior,Bengaluru,2016-06-22,9.3,1595400.0,3,28.6,Yes,0
+E1761,Marketing,Mid,Bengaluru,2022-10-06,3.1,790200.0,4,25.8,No,0
+E1677,Marketing,Mid,Bengaluru,2021-01-04,4.5,768000.0,4,59.2,No,0
+E1841,Sales,Mid,Bengaluru,18 May 2021,4.2,867800.0,4,53.3,Yes,0
+E1420,Marketing,Senior,Hyderabad,30 Jun 2013,12.2,1208500.0,3,47.8,No,1
+E1807,Engineering,Junior,Hyderabad,2021-06-15,4.2,460100.0,3,35.8,Yes,0
+E1890,Engineering,Junior,Pune,2025-06-29,0.2,505400.0,3,13.7,No,0
+E1101,engineering ,Senior,Mumbai,01/11/2016,9.7,1577200.0,3,24.6,Yes,0
+E1473,Marketing,Junior,Mumbai,2023-11-24,1.7,378200.0,4,23.7,Yes,0
+E1889,Engineering,Lead,Delhi,25 Nov 2013,11.6,2602400.0,2,18.1,No,0
+E1537,Engineering,Mid,Mumbai,06 Mar 2020,5.8,868600.0,3,14.5,No,0
+E1596,Engineering,Junior,Pune,2023-10-13,1.8,517900.0,4,24.9,Yes,0
+E1870,Sales,Mid,Bengaluru,2020-03-19,5.4,808900.0,4,2.8,Yes,0
+E1212,Engineering,Junior,Delhi,02 Nov 2024,1.0,564700.0,4,35.8,No,0
+E1008,Operations,Junior,Hyderabad,05 Mar 2023,2.3,391100.0,3,63.8,No,0
+E1637,Marketing,Senior,Delhi,08 Sep 2015,10.0,1356900.0,3,38.8,No,0
+E1108,Sales,Junior,Hyderabad,08 Nov 2023,2.0,439800.0,4,24.3,Yes,0
+E1783,People,Junior,Mumbai,16 Jul 2021,4.4,421300.0,3,20.4,Yes,0
+E1518,Engineering,Junior,Mumbai,2022-11-28,2.8,500000.0,3,6.8,No,0
+E1176,Operations,Mid,Mumbai,2020-05-02,5.2,731700.0,4,60.8,No,0
+E1559,Engineering,Senior,Pune,2016-11-11,9.1,1525600.0,4,10.5,Yes,0
+E1379,People,Junior,Hyderabad,2024-04-29,1.4,443100.0,2,32.3,Yes,0
+E1248,Operations,Junior,Hyderabad,10 Jun 2025,0.2,350700.0,4,24.3,No,0
+E1045,Finance,Junior,Bengaluru,2025-10-16,0.2,429600.0,4,8.8,Yes,0
+E1159,Engineering,Senior,Delhi,09 Jun 2015,10.5,1503200.0,2,39.2,Yes,0
+E1266,People,Junior,Mumbai,2022-12-26,3.0,415800.0,4,9.6,No,0
+E1320,People,Senior,Bengaluru,2013-06-07,12.1,1327600.0,3,54.9,No,0
+E1696,People,Mid,Bengaluru,2023-06-27,2.4,782800.0,4,22.6,No,0
+E1080,Engineering,Mid,Bengaluru,2022-11-11,3.1,873600.0,4,11.7,No,0
+E1328,Engineering,Lead,Mumbai,2010-05-26,15.6,2504200.0,5,30.2,Yes,0
+E1799,engineering ,Senior,Pune,07 Jan 2015,10.7,1511500.0,5,45.1,No,0
+E1268,Engineering,Mid,Delhi,2021-06-06,4.5,959200.0,3,11.2,No,0
+E1656,Sales,Senior,Hyderabad,2017-07-04,8.4,1454600.0,4,33.5,No,0
+E1477,Marketing,Senior,Pune,29 Dec 2016,8.5,1320000.0,4,8.8,No,0
+E1867,Marketing,Mid,Mumbai,2021-01-15,4.8,678500.0,3,19.3,Yes,0
+E1267,Engineering,Senior,Mumbai,2018-03-04,7.3,1693000.0,4,25.4,No,0
+E1097,Sales,Junior,Pune,23 Nov 2021,3.8,468500.0,1,24.1,Yes,0
+E1568,Sales,Senior,Hyderabad,2016-08-16,9.0,1280500.0,3,12.6,No,0
+E1632,Engineering,Senior,Pune,08 Jul 2017,8.1,1610300.0,5,50.9,Yes,0
+E1249,Sales,Mid,Pune,19 Jul 2021,4.1,839900.0,3,54.7,Yes,1
+E1018,Marketing,Junior,Hyderabad,12/23/2022,2.6,416200.0,3,31.4,No,0
+E1526,Engineering,Junior,Bengaluru,05 Dec 2022,3.0,572800.0,3,29.2,No,0
+E1061,Marketing,Senior,Hyderabad,2015-07-22,10.1,,2,7.8,Yes,0
+E1166,Marketing,Senior,Bengaluru,2015-09-22,10.2,1515600.0,4,14.7,No,0
+E1025,Sales,Junior,Hyderabad,2022-12-22,2.9,429300.0,4,13.6,Yes,0
+E1523,Sales,Senior,Pune,03 Aug 2016,9.2,1173300.0,3,16.0,No,0
+E1672,Engineering,Senior,Mumbai,09 Mar 2019,6.3,1334000.0,5,43.7,Yes,0
+E1071,Engineering,Lead,Mumbai,2009-02-04,16.9,2303400.0,3,28.8,No,1
+E1275,Finance,Mid,Pune,2021-10-25,3.8,817300.0,4,12.8,Yes,1
+E1843,engineering ,Lead,Bengaluru,02/16/2011,14.6,2395000.0,4,23.6,No,0
+E1608,People,Senior,Hyderabad,10 Jul 2017,8.0,,5,15.8,No,0
+E1674,engineering ,Junior,Delhi,2024-03-25,1.6,487500.0,4,11.5,No,0
+E1169,People,Senior,Mumbai,2020-09-12,5.1,1193400.0,3,24.6,Yes,1
+E1075,Operations,Senior,Hyderabad,2016-01-07,9.9,,1,15.1,Yes,0
+E1636,Engineering,Mid,Bengaluru,2022-08-20,2.9,976000.0,5,22.4,No,0
+E1654,Sales,Mid,Hyderabad,23 Dec 2019,5.5,765800.0,4,37.4,No,0
+E1305,Sales,Lead,Bengaluru,2012-03-30,13.3,,3,15.7,Yes,1
+E1378,Sales,Mid,Mumbai,2021-04-08,4.5,747600.0,3,20.7,No,0
+E1348,engineering ,Junior,Bengaluru,05 Oct 2024,1.0,511600.0,4,15.4,No,0
+E1572,People,Junior,Bengaluru,2022-03-17,3.4,466000.0,3,18.0,Yes,0
+E1788,Engineering,Mid,Delhi,2021-06-29,4.0,878400.0,3,4.3,No,0
+E1350,Engineering,Senior,Mumbai,2018-08-28,7.2,1461200.0,2,25.6,Yes,1
+E1404,Engineering,Senior,Bengaluru,2016-10-22,8.8,1505500.0,3,23.8,Yes,0
+E1448,Marketing,Junior,Delhi,2024-11-11,0.8,,4,34.9,No,0
+E1068,People,Junior,Delhi,2025-06-13,0.2,365900.0,3,15.5,Yes,0
+E1595,Sales,Senior,Bengaluru,2014-10-09,10.8,1385000.0,4,17.5,No,0
+E1276,Engineering,Junior,Mumbai,2025-03-14,0.5,440600.0,3,20.8,Yes,0
+E1362,Engineering,Junior,Hyderabad,2025-09-29,0.2,525300.0,4,19.7,Yes,0
+E1175,Sales,Lead,Bengaluru,2012-07-28,12.9,2254700.0,4,11.6,No,0
+E1216,Operations,Junior,Bengaluru,2021-06-09,4.1,411600.0,5,31.5,Yes,0
+E1666,Finance,Mid,Mumbai,28 Mar 2022,3.6,735200.0,5,12.8,Yes,0
+E1866,Engineering,Senior,Delhi,2020-04-10,5.6,1751900.0,3,19.4,Yes,0
+E1616,Engineering,Mid,Bengaluru,10 Sep 2021,4.3,783700.0,2,58.7,No,0
+E1455,Sales,Senior,Hyderabad,2016-12-09,8.6,1284300.0,1,21.3,No,1
+E1707,Sales,Mid,Pune,03/31/2022,3.4,856200.0,2,27.6,No,0
+E1177,Operations,Senior,Bengaluru,2018-03-18,7.6,1361400.0,3,45.5,No,0
+E1202,Marketing,Junior,Hyderabad,12/05/2022,2.6,404200.0,5,28.9,No,0
+E1813,Sales,Mid,Pune,2021-05-25,4.3,795300.0,3,,No,0
+E1766,Engineering,Junior,Hyderabad,2023-06-26,2.5,498400.0,5,32.6,Yes,0
+E1003,Engineering,Senior,Bengaluru,27 Jan 2015,10.8,1476100.0,4,10.4,Yes,0
+E1263,Engineering,Junior,Pune,12/17/2022,2.7,580900.0,2,14.4,Yes,0
+E1475,Finance,Lead,Mumbai,21 Oct 2011,14.0,2152700.0,3,28.9,No,1
+E1503,Sales,Senior,Bengaluru,2015-03-09,10.5,1375400.0,2,7.8,No,0
+E1492,Operations,Senior,Bengaluru,07 Nov 2012,12.7,1282300.0,3,32.5,No,0
+E1261,Operations,Mid,Delhi,2020-04-28,5.5,701600.0,3,14.2,No,0
+E1251,Sales,Mid,Mumbai,15 Dec 2024,0.9,822800.0,3,8.1,No,0
+E1093,Sales,Lead,Hyderabad,2010-09-12,14.8,2336000.0,5,14.5,No,0
+E1625,Engineering,Junior,Bengaluru,2021-10-20,3.7,466000.0,4,16.9,No,0
+E1226,Finance,Senior,Pune,2015-01-24,10.8,1405700.0,4,35.3,Yes,0
+E1024,Engineering,Mid,Mumbai,13 Jun 2019,6.3,817500.0,4,13.6,Yes,0
+E1879,People,Senior,Bengaluru,2016-05-18,9.1,1115400.0,2,7.9,No,0
+E1476,Finance,Mid,Pune,2020-09-16,5.0,809800.0,4,9.9,Yes,0
+E1701,Operations,Mid,Mumbai,2020-11-06,5.1,674900.0,2,18.9,No,0
+E1200,Operations,Senior,Bengaluru,2019-10-19,6.0,1158900.0,2,9.7,No,1
+E1577,Marketing,Senior,Bengaluru,2016-02-04,9.8,1391700.0,3,21.9,Yes,0
+E1015,Marketing,Junior,Hyderabad,2023-09-30,2.1,433100.0,1,25.8,Yes,0
+E1257,Operations,Senior,Hyderabad,2014-05-17,11.2,1129900.0,4,29.1,No,0
+E1014,Sales,Junior,Bengaluru,2023-03-13,2.3,427700.0,2,7.1,Yes,0
+E1333,Engineering,Lead,Hyderabad,2013-10-08,12.2,2448200.0,3,20.7,No,0
+E1229,Operations,Junior,Bengaluru,04/19/2025,0.3,419100.0,2,18.0,No,0
+E1714,Sales,Mid,Hyderabad,05/16/2020,5.1,754500.0,4,18.6,Yes,1
+E1550,Sales,Mid,Hyderabad,2019-06-29,6.4,,4,11.1,No,0
+E1888,Marketing,Mid,Pune,2018-12-02,6.6,780400.0,4,27.1,Yes,1
+E1631,engineering ,Mid,Mumbai,12 May 2023,2.4,672200.0,4,28.6,No,0
+E1821,Engineering,Junior,Bengaluru,2023-06-18,2.1,529700.0,4,19.9,No,0
+E1858,People,Lead,Delhi,09 Jan 2013,12.5,1819100.0,3,12.1,Yes,0
+E1551,Marketing,Junior,Hyderabad,16 Mar 2025,0.4,452500.0,3,34.8,Yes,0
+E1847,Engineering,Senior,Delhi,04/24/2018,7.6,1699700.0,5,18.5,Yes,1
+E1099,Engineering,Junior,Bengaluru,11/13/2024,0.6,557000.0,4,26.3,No,0
+E1605,Engineering,Junior,Bengaluru,07/31/2023,2.2,501000.0,4,44.0,Yes,1
+E1851,Engineering,Lead,Hyderabad,2010-03-15,15.4,2280600.0,3,57.5,Yes,1
+E1734,Engineering,Senior,Hyderabad,10/22/2014,10.9,1606200.0,5,18.3,No,0
+E1578,Operations,Lead,Hyderabad,2011-09-11,13.9,1842600.0,4,24.0,Yes,0
+E1316,engineering ,Senior,Delhi,2018-09-22,6.8,1407300.0,4,28.5,No,0
+E1735,Sales,Junior,Hyderabad,2023-10-07,2.2,453000.0,4,12.7,Yes,0
+E1271,Engineering,Senior,Pune,2014-10-11,10.7,1541900.0,2,17.5,No,1
+E1057,engineering ,Lead,Pune,21 Jul 2013,12.3,2272000.0,4,20.4,No,0
+E1665,Engineering,Senior,Mumbai,12/24/2017,7.6,1564500.0,4,12.0,Yes,0
+E1797,Marketing,Mid,Pune,2018-08-04,7.2,709000.0,3,12.5,No,0
+E1496,Operations,Mid,Hyderabad,2021-01-18,4.6,732000.0,4,9.6,Yes,0
+E1570,Operations,Junior,Pune,2023-04-22,2.4,427900.0,4,5.0,No,0
+E1144,Sales,Mid,Hyderabad,2019-09-29,6.1,836100.0,5,7.2,No,1
+E1767,Sales,Junior,Delhi,07/27/2024,1.2,462400.0,4,23.2,No,0
+E1726,Operations,Senior,Mumbai,2017-04-27,8.4,1148600.0,2,17.1,No,0
+E1158,Engineering,Mid,Hyderabad,17 Apr 2019,6.3,987700.0,3,29.1,No,0
+E1381,engineering ,Junior,Hyderabad,2024-09-11,0.8,579200.0,1,20.3,Yes,1
+E1117,Engineering,Mid,Hyderabad,09 Apr 2021,4.6,1072600.0,3,12.9,Yes,0
+E1441,Engineering,Mid,Bengaluru,06/16/2019,6.5,857100.0,5,12.6,No,0
+E1490,Sales,Senior,Mumbai,2014-07-17,11.0,1347700.0,3,33.4,No,0
+E1317,Sales,Senior,Delhi,04/18/2016,9.5,1541000.0,4,28.5,Yes,1
+E1088,Sales,Junior,Mumbai,2023-03-21,2.3,488900.0,3,43.1,Yes,0
+E1832,Engineering,Senior,Bengaluru,16 Nov 2015,9.8,1407300.0,4,17.3,No,0
+E1712,Sales,Mid,Mumbai,08 Aug 2020,4.9,778300.0,4,35.6,No,0
+E1536,Engineering,Mid,Bengaluru,2019-12-17,5.9,941500.0,4,28.6,Yes,0
+E1382,Marketing,Mid,Bengaluru,2018-05-24,7.1,840600.0,3,31.5,Yes,0
+E1274,Sales,Senior,Pune,29 Sep 2016,8.9,1503100.0,4,19.2,Yes,1
+E1006,Engineering,Junior,Bengaluru,2021-11-17,3.6,524300.0,3,14.4,Yes,0
+E1811,Sales,Mid,Bengaluru,2020-10-06,4.8,793700.0,3,59.1,Yes,0
+E1004,Engineering,Mid,Bengaluru,2022-02-07,3.5,764500.0,5,19.2,No,0
+E1319,Operations,Junior,Bengaluru,2024-03-13,1.5,448000.0,3,17.4,No,0
+E1040,Engineering,Mid,Hyderabad,10/15/2021,4.2,993900.0,4,32.3,No,0
+E1417,Sales,Junior,Pune,06/24/2023,2.2,477200.0,2,27.6,No,0
+E1237,Engineering,Mid,Bengaluru,2021-11-12,4.1,915800.0,2,33.8,No,0
+E1210,Sales,Junior,Bengaluru,2023-11-08,2.0,432700.0,4,42.7,No,0
+E1521,Marketing,Mid,Bengaluru,2021-05-28,4.1,780100.0,3,34.8,No,0
+E1211,Engineering,Mid,Mumbai,2020-11-27,4.6,948200.0,3,14.6,No,0
+E1641,Operations,Junior,Pune,24 Nov 2022,3.0,358000.0,3,37.8,No,0
+E1001,Operations,Mid,Delhi,2018-02-03,7.7,757100.0,3,7.6,Yes,0
+E1733,Engineering,Senior,Pune,20 Feb 2017,8.6,1427100.0,4,22.3,Yes,0
+E1512,Engineering,Senior,Bengaluru,2018-09-10,6.9,1730300.0,3,42.8,No,0
+E1854,People,Junior,Bengaluru,2023-06-29,2.0,457100.0,4,14.5,No,1
+E1303,Operations,Lead,Delhi,02/08/2012,13.4,"1,885,000",4,15.2,No,0
+E1064,Sales,Junior,Mumbai,2022-09-24,2.9,396600.0,3,44.2,Yes,1
+E1635,Marketing,Lead,Pune,2009-07-26,16.3,,3,34.3,No,0
+E1428,Finance,Senior,Mumbai,2015-12-30,9.7,1405500.0,5,28.3,No,0
+E1363,Sales,Senior,Mumbai,2015-05-23,10.5,1271600.0,3,,No,1
+E1311,Sales,Junior,Pune,2023-02-12,2.6,390000.0,2,19.7,No,1
+E1661,engineering ,Junior,Pune,2023-11-23,1.6,560500.0,4,24.5,No,0
+E1265,Engineering,Senior,Delhi,2017-05-07,8.6,1627200.0,2,15.7,No,0
+E1774,Engineering,Lead,Hyderabad,2011-06-19,14.5,2744300.0,3,36.4,No,0
+E1098,Engineering,Lead,Hyderabad,2011-12-25,13.5,2387300.0,3,48.7,Yes,0
+E1875,Engineering,Lead,Pune,07 Aug 2010,15.1,2282100.0,2,29.6,Yes,1
+E1881,Marketing,Junior,Delhi,2024-06-28,1.3,426200.0,4,62.1,No,0
+E1554,Engineering,Mid,Bengaluru,2020-08-18,4.9,951300.0,4,32.4,Yes,0
+E1338,Sales,Senior,Delhi,06/06/2017,8.5,1585000.0,5,9.3,Yes,0
+E1812,People,Senior,Hyderabad,2016-11-23,8.9,1219900.0,3,6.0,No,0
+E1277,Finance,Senior,Mumbai,2016-10-18,9.1,1489000.0,2,31.6,No,0
+E1389,Operations,Mid,Mumbai,10 Dec 2017,7.7,772800.0,3,18.6,No,0
+E1103,Sales,Mid,Delhi,2021-11-21,4.1,840600.0,2,23.9,Yes,0
+E1196,engineering ,Junior,Bengaluru,01/10/2025,0.6,535400.0,3,36.8,No,1
+E1280,Finance,Mid,Bengaluru,2021-10-31,3.9,756300.0,3,28.4,Yes,0
+E1878,Engineering,Junior,Mumbai,2021-04-07,4.4,512900.0,3,6.5,Yes,0
+E1805,Operations,Senior,Mumbai,2019-12-14,5.8,1168800.0,3,21.4,Yes,0
+E1334,People,Junior,Delhi,2021-07-24,4.2,403900.0,3,11.3,No,1
+E1429,Sales,Junior,Bengaluru,22 Nov 2023,1.7,508700.0,3,34.6,Yes,0
+E1162,Operations,Lead,Pune,2012-01-30,13.9,1832600.0,4,18.7,No,0
+E1293,Marketing,Mid,Hyderabad,2020-04-04,5.6,813700.0,2,13.0,No,0
+E1624,Finance,Lead,Delhi,2012-03-09,13.4,2076500.0,4,10.0,No,0
+E1826,Engineering,Mid,Hyderabad,2019-10-15,5.8,1074300.0,5,60.0,No,0
+E1231,Finance,Mid,Pune,14 Jan 2021,4.7,864600.0,4,24.6,Yes,0
+E1896,Finance,Junior,Pune,2025-05-13,0.2,449400.0,4,31.5,Yes,0
+E1134,People,Junior,Mumbai,2023-10-08,1.7,396800.0,4,41.5,No,1
+E1658,Engineering,Mid,Mumbai,13 Feb 2022,3.8,951100.0,3,27.8,No,1
+E1341,Engineering,Junior,Bengaluru,2025-05-30,0.2,537700.0,4,52.4,No,0
+E1219,Operations,Mid,Delhi,19 Oct 2018,7.2,733300.0,2,27.7,No,0
+E1447,Finance,Mid,Hyderabad,02 Jan 2020,5.7,829300.0,3,12.3,Yes,0
+E1868,Engineering,Senior,Delhi,2017-04-01,8.3,1670100.0,4,6.5,Yes,0
+E1188,Engineering,Junior,Bengaluru,2022-11-05,2.8,451700.0,2,8.4,Yes,0
+E1192,Engineering,Senior,Delhi,07/12/2018,7.2,1618700.0,2,16.7,Yes,1
+E1142,Sales,Junior,Hyderabad,2025-04-17,0.2,477300.0,4,17.2,Yes,0
+E1410,Finance,Mid,Bengaluru,2020-07-27,5.4,861200.0,4,24.7,No,0
+E1298,Operations,Junior,Mumbai,2024-12-16,0.5,443600.0,4,43.3,No,0
+E1590,Finance,Mid,Bengaluru,2021-09-05,4.0,862900.0,4,35.0,No,0
+E1301,Engineering,Senior,Mumbai,2016-11-28,8.7,,4,40.3,Yes,0
+E1739,engineering ,Junior,Bengaluru,2025-04-14,0.2,497500.0,3,9.5,No,0
+E1464,Operations,Mid,Hyderabad,22 Nov 2019,6.0,660900.0,5,50.9,Yes,0
+E1398,People,Mid,Pune,08 Dec 2021,4.0,612200.0,2,16.4,No,1
+E1497,Engineering,Senior,Bengaluru,13 Dec 2018,6.9,1648400.0,2,30.8,No,0
+E1891,People,Mid,Pune,2023-02-01,2.6,836000.0,3,6.2,No,0
+E1128,Engineering,Senior,Hyderabad,2017-11-17,8.0,1674700.0,3,28.8,No,0
+E1160,Engineering,Senior,Bengaluru,2015-06-12,10.5,1465600.0,4,6.6,No,0
+E1356,Operations,Mid,Hyderabad,2017-11-17,8.0,736200.0,5,19.3,No,0
+E1123,Sales,Mid,Bengaluru,26 Jan 2020,5.7,899800.0,5,17.1,Yes,0
+E1668,Engineering,Mid,Hyderabad,01 Sep 2021,4.0,932600.0,2,14.0,No,0
+E1467,Operations,Mid,Hyderabad,2018-12-14,6.7,720300.0,5,25.8,Yes,0
+E1168,Engineering,Mid,Bengaluru,2022-04-12,3.3,,3,26.6,Yes,0
+E1642,Marketing,Junior,Mumbai,2025-06-02,0.5,441000.0,3,8.0,Yes,0
+E1100,People,Senior,Bengaluru,11 Aug 2014,11.0,1404400.0,4,11.3,No,0
+E1474,Marketing,Senior,Mumbai,2017-08-25,8.3,1334500.0,4,32.6,No,0
+E1594,Sales,Mid,Bengaluru,2019-05-05,6.5,784500.0,5,26.9,No,0
+E1102,Sales,Mid,Mumbai,2020-11-23,5.1,833100.0,4,17.4,No,0
+E1105,Sales,Mid,Pune,2022-09-26,3.2,853400.0,4,20.7,No,0
+E1659,Engineering,Junior,,07/19/2025,0.2,473100.0,4,26.7,Yes,0
+E1669,Marketing,Junior,Bengaluru,2024-08-11,0.9,461100.0,4,46.7,No,0
+E1848,Finance,Junior,Bengaluru,2025-09-01,0.2,503600.0,3,32.9,No,0
+E1235,Engineering,Junior,Delhi,2023-11-19,2.0,404200.0,3,40.3,No,0
+E1744,engineering ,Mid,Pune,27 May 2019,6.6,659200.0,2,31.4,Yes,1
+E1085,Marketing,Mid,Delhi,2019-10-12,5.9,828500.0,1,25.4,No,0
+E1365,Sales,Junior,Bengaluru,03 Jul 2025,0.2,403500.0,4,27.8,No,0
+E1778,People,Junior,Bengaluru,2021-12-22,3.7,396700.0,3,35.8,Yes,0
+E1809,People,Mid,Bengaluru,13 Aug 2022,3.0,811200.0,3,6.8,Yes,0
+E1857,People,Junior,Bengaluru,2023-11-25,2.0,411600.0,5,42.4,Yes,0
+E1740,Sales,Junior,Mumbai,2023-01-24,2.5,385100.0,2,97.9,No,0
+E1016,People,Senior,,2015-04-05,10.6,1184400.0,4,11.4,No,0
+E1849,Engineering,Mid,Pune,29 Mar 2020,5.7,815800.0,4,19.8,Yes,1
+E1046,Engineering,Mid,Mumbai,2022-07-15,3.0,918700.0,2,43.2,Yes,0
+E1834,Engineering,Mid,Delhi,2022-11-06,2.8,906400.0,4,26.6,No,0
+E1344,Engineering,Mid,Delhi,11/13/2020,4.6,1010600.0,4,6.1,No,0
+E1129,Sales,Mid,Bengaluru,2018-11-21,6.7,859300.0,4,13.2,Yes,0
+E1269,Operations,Mid,Pune,2020-06-21,5.2,628400.0,2,21.7,No,0
+E1440,Marketing,Mid,Delhi,2020-04-09,5.6,790300.0,3,20.3,No,0
+E1771,People,Mid,Hyderabad,2021-02-13,4.4,657800.0,5,32.6,No,0
+E1094,Engineering,Lead,,2011-12-27,13.5,2533700.0,3,66.5,No,0
+E1468,Sales,Mid,Mumbai,2020-11-03,5.0,818500.0,4,24.9,No,0
+E1604,Engineering,Mid,Bengaluru,2020-12-25,4.8,953600.0,4,20.1,No,0
+E1794,Engineering,Junior,Bengaluru,2021-11-27,3.8,447000.0,4,22.0,Yes,0
+E1513,Finance,Junior,Bengaluru,2025-06-04,0.2,496400.0,2,28.2,No,0
+E1791,Engineering,Junior,Pune,09 Sep 2025,0.2,528600.0,4,34.9,No,0
+E1195,engineering ,Mid,Bengaluru,2019-02-15,6.7,860700.0,3,23.8,No,1
+E1657,engineering ,Senior,Hyderabad,2019-09-19,6.0,1551000.0,5,20.6,Yes,0
+E1332,Operations,Junior,Bengaluru,09/21/2025,0.2,446100.0,3,16.1,No,0
+E1242,Sales,Senior,Hyderabad,2016-09-21,8.9,1474500.0,3,18.5,No,0
+E1079,Engineering,Senior,Pune,2015-11-17,10.0,1719100.0,4,37.5,No,0
+E1593,Marketing,Junior,Bengaluru,2024-07-01,1.5,457300.0,3,28.4,Yes,0
+E1043,Operations,Lead,Bengaluru,2012-01-20,13.7,2358100.0,4,8.8,No,0
+E1020,Engineering,Mid,Mumbai,12/03/2019,5.8,934100.0,2,10.3,No,0
+E1205,Engineering,Senior,Delhi,2015-08-29,10.1,1705100.0,4,25.1,No,0
+E1640,Engineering,Junior,Mumbai,2024-05-23,1.4,503300.0,3,25.2,Yes,1
+E1206,Operations,Junior,Mumbai,10/09/2024,0.9,437000.0,2,2.5,Yes,0
+E1576,Finance,Mid,Pune,04/02/2018,7.6,783900.0,3,69.3,Yes,0
+E1091,Operations,Junior,Bengaluru,2025-09-02,0.2,415800.0,4,10.1,No,0
+E1292,Operations,Lead,Delhi,16 Dec 2011,13.7,2012500.0,1,21.9,Yes,0
+E1150,Engineering,Junior,Bengaluru,2025-07-15,0.2,468800.0,3,9.1,Yes,0
+E1725,Engineering,Junior,Delhi,2023-11-24,1.8,482000.0,3,13.2,No,0
+E1082,Marketing,Lead,Pune,18 Feb 2013,12.8,1948800.0,5,30.6,No,0
+E1087,Sales,Mid,Bengaluru,2018-02-26,7.4,729500.0,4,12.1,Yes,0
+E1141,Marketing,Junior,Mumbai,12 May 2025,0.4,515300.0,4,8.6,No,1
+E1256,Engineering,Mid,Bengaluru,2024-11-21,1.1,907800.0,4,9.2,Yes,0
+E1600,Operations,Mid,Pune,2020-10-07,4.7,722500.0,3,38.7,No,0
+E1339,Engineering,Senior,Bengaluru,2019-06-01,6.2,1584100.0,3,7.4,No,0
+E1753,Engineering,Lead,Hyderabad,20 Oct 2014,11.0,2180800.0,4,17.8,Yes,0
+E1643,Finance,Junior,Delhi,2025-07-03,0.2,539700.0,3,22.1,Yes,0
+E1039,Engineering,Mid,Mumbai,2022-04-12,3.4,850700.0,3,51.8,No,0
+E1615,Operations,Mid,Bengaluru,24 Feb 2020,5.7,600600.0,4,13.2,Yes,0
+E1819,Sales,Junior,Bengaluru,08/12/2024,1.3,,3,14.2,No,0
+E1084,Operations,Senior,Bengaluru,2015-12-09,9.6,1352100.0,3,22.4,No,0
+E1230,Engineering,Junior,Mumbai,07/05/2025,0.2,527000.0,2,34.4,No,0
+E1546,Engineering,Junior,Mumbai,2023-02-04,2.8,540100.0,4,26.2,No,0
+E1651,Engineering,Mid,Mumbai,2020-09-29,4.8,926600.0,5,21.7,No,0
+E1880,Operations,Senior,Pune,02/25/2016,9.7,1168600.0,3,30.7,No,0
+E1789,Sales,Senior,Hyderabad,2016-05-07,9.6,1393400.0,4,5.8,No,0
+E1314,Sales,Lead,Mumbai,12/20/2013,11.5,2164800.0,3,17.1,No,0
+E1392,Finance,Senior,Bengaluru,21 Nov 2016,8.7,1259800.0,3,26.6,No,1
+E1728,Engineering,Junior,Pune,11 Apr 2025,0.3,538200.0,2,18.1,No,0
+E1451,Marketing,Mid,Hyderabad,06/01/2020,5.3,822000.0,3,19.2,No,0
+E1555,Engineering,Mid,Bengaluru,2021-05-16,4.6,1035000.0,2,20.2,Yes,0
+E1483,engineering ,Mid,Pune,03 Oct 2021,3.9,757200.0,3,18.2,Yes,0
+E1172,Marketing,Mid,Hyderabad,2021-03-10,4.8,853300.0,3,27.0,Yes,0
+E1197,Engineering,Mid,Hyderabad,19 Jan 2019,6.6,838500.0,4,10.3,No,0
+E1634,Operations,Junior,Delhi,2024-06-03,1.5,444100.0,3,43.0,No,0
+E1793,Marketing,Lead,Mumbai,2010-02-22,15.5,2142400.0,1,40.6,No,0
+E1449,Operations,Senior,Mumbai,22 Nov 2020,4.8,1126600.0,4,26.9,Yes,0
+E1361,Sales,Mid,Pune,2019-12-31,5.7,786300.0,4,25.7,Yes,0
+E1201,Finance,Senior,Bengaluru,2018-08-15,7.1,1470800.0,3,20.6,No,0
+E1140,Finance,Junior,Bengaluru,18 Jul 2022,3.4,471400.0,2,24.0,Yes,1
+E1312,engineering ,Senior,Hyderabad,12/23/2016,8.9,1246300.0,4,24.4,No,0
+E1048,Sales,Mid,Bengaluru,17 May 2020,5.1,789700.0,3,62.8,Yes,0
+E1368,Operations,Mid,Pune,2019-08-19,6.1,752400.0,3,30.1,No,0
+E1784,Finance,Junior,Bengaluru,2025-05-18,0.2,434200.0,4,27.7,No,1
+E1096,Engineering,Senior,Mumbai,2017-05-19,8.2,1523600.0,3,38.8,Yes,0
+E1652,Finance,Mid,Delhi,20 Aug 2021,4.0,941800.0,1,25.4,Yes,1
+E1241,Engineering,Senior,Mumbai,2016-07-26,8.9,1524600.0,3,17.9,Yes,0
+E1028,Marketing,Senior,Bengaluru,2015-10-16,9.8,1408000.0,2,35.9,No,0
+E1232,Operations,Mid,Pune,2020-03-06,5.4,690900.0,4,21.0,No,0
+E1442,Engineering,Mid,Mumbai,2020-06-20,5.0,896000.0,3,33.9,No,0
+E1824,Finance,Junior,Delhi,2023-06-12,2.1,478300.0,3,35.3,Yes,1
+E1060,Marketing,Mid,Pune,13 Feb 2022,3.8,673000.0,2,56.8,Yes,1
+E1012,Engineering,Senior,Bengaluru,2014-05-20,11.3,1625900.0,3,50.8,No,0
+E1752,Sales,Junior,Hyderabad,2022-10-17,2.9,452200.0,2,18.5,Yes,0
+E1883,engineering ,Mid,Hyderabad,11/14/2020,5.0,992600.0,3,5.7,No,0
+E1021,Engineering,Mid,Pune,2017-05-15,8.3,1027400.0,2,6.6,Yes,0
+E1628,Sales,Senior,Bengaluru,2015-01-07,10.9,1380300.0,3,39.3,No,1
+E1173,Engineering,Mid,Delhi,27 Aug 2019,5.9,1022500.0,3,11.2,No,0
+E1038,Operations,Junior,Bengaluru,2025-04-16,0.5,396500.0,3,22.2,Yes,0
+E1684,Engineering,Mid,Hyderabad,2019-01-08,6.5,1020000.0,3,31.6,No,0
+E1469,Finance,Junior,Mumbai,2025-06-08,0.2,464900.0,2,21.7,No,0
+E1272,Sales,Junior,Bengaluru,2023-10-09,2.0,433200.0,2,13.2,No,1
+E1349,Sales,Junior,Hyderabad,2025-04-03,0.3,516100.0,5,21.7,No,0
+E1663,Engineering,Senior,Hyderabad,30 Mar 2017,8.4,1690600.0,4,21.7,Yes,0
+E1069,Engineering,Senior,Pune,2016-02-16,9.7,1616500.0,5,20.9,No,0
+E1687,Sales,Junior,Mumbai,2024-04-23,1.4,428200.0,3,16.0,No,0
+E1245,Sales,Mid,Bengaluru,2021-04-21,4.2,752500.0,2,9.3,Yes,0
+E1723,Engineering,Senior,Bengaluru,03/19/2018,7.4,1783000.0,3,23.2,No,0
+E1329,Engineering,Lead,Mumbai,2010-10-23,14.8,2726200.0,2,38.8,No,0
+E1895,Operations,Senior,Mumbai,24 Nov 2017,7.7,1461100.0,2,8.7,Yes,1
+E1386,Operations,Mid,Hyderabad,2020-08-03,5.0,731500.0,3,27.1,Yes,0
+E1475,Finance,Lead,Mumbai,21 Oct 2011,14.0,2152700.0,3,28.9,No,1
+E1302,Operations,Junior,Pune,09 Jun 2022,3.3,406700.0,4,25.7,Yes,0
+E1750,Sales,Senior,Delhi,03/22/2016,9.3,1445900.0,4,31.8,No,0
+E1801,Engineering,Senior,Bengaluru,2017-03-21,8.4,"1,638,100",4,46.6,No,0
+E1130,People,Mid,,06/20/2018,7.1,859400.0,2,23.7,No,0
+E1583,Engineering,Junior,Bengaluru,2023-07-26,1.9,457200.0,5,28.4,Yes,0
+E1506,Sales,Mid,Pune,2021-01-06,4.6,751400.0,3,20.6,Yes,0
+E1346,engineering ,Senior,,11/29/2015,9.9,1210500.0,3,6.3,No,0
+E1186,Engineering,Junior,Bengaluru,2025-04-23,0.4,474900.0,2,65.5,No,1
+E1355,Engineering,Junior,Hyderabad,2024-10-03,0.8,543600.0,5,16.9,No,0
+E1683,Operations,Junior,Hyderabad,2024-08-28,1.2,392500.0,1,15.6,Yes,0
+E1438,Marketing,Mid,Mumbai,2022-05-23,3.6,777800.0,3,18.1,No,0
+E1779,Engineering,Senior,Delhi,2018-07-23,7.3,1583500.0,5,25.0,Yes,0
+E1622,People,Senior,Bengaluru,2016-12-06,8.9,1362600.0,2,15.2,No,0
+E1137,Sales,Mid,Bengaluru,01/31/2020,5.9,782400.0,2,8.8,Yes,0
+E1528,Engineering,Junior,Mumbai,18 Apr 2021,4.5,482400.0,5,6.2,No,0
+E1323,Operations,Lead,,2011-06-01,14.2,1754200.0,3,7.0,Yes,0
+E1679,Operations,Lead,Mumbai,2012-05-09,13.3,1932100.0,3,14.5,Yes,0
+E1603,Engineering,Junior,Hyderabad,2022-12-24,2.5,500000.0,3,3.5,No,0
+E1453,Finance,Mid,Hyderabad,2022-08-02,2.9,843600.0,4,18.7,No,0
+E1787,Engineering,Mid,Mumbai,11 May 2022,3.3,932700.0,3,29.7,Yes,0
+E1415,Finance,Mid,Mumbai,2024-04-17,1.6,675600.0,3,26.8,Yes,0
+E1759,Sales,Junior,Bengaluru,2025-07-17,0.2,478700.0,4,21.0,No,0
+E1613,Sales,Mid,Mumbai,02/24/2021,4.5,764500.0,4,10.7,Yes,0
+E1204,Marketing,Junior,Delhi,2023-10-31,1.8,374300.0,3,26.9,Yes,0
+E1529,Engineering,Mid,Delhi,2021-05-12,4.6,940400.0,3,23.3,Yes,0
+E1876,Finance,Lead,Hyderabad,2013-11-24,11.7,2038900.0,2,12.9,No,0
+E1327,People,Junior,Hyderabad,2025-06-03,0.2,401700.0,4,15.7,Yes,0
+E1532,Sales,Senior,Hyderabad,03 Dec 2017,7.9,1341200.0,3,6.9,No,0
+E1367,Operations,Junior,Mumbai,2024-03-27,1.3,396500.0,5,3.2,No,0
+E1400,Engineering,Mid,Delhi,2020-09-15,4.8,1082400.0,3,26.6,No,0
+E1893,Sales,Junior,Bengaluru,22 May 2023,2.4,444500.0,1,27.9,No,0
+E1041,Operations,Mid,Mumbai,2022-02-17,3.4,598900.0,4,40.9,No,0
+E1351,Engineering,Junior,Mumbai,2024-10-09,0.7,585300.0,3,18.5,No,0
+E1199,Sales,Junior,Pune,2024-02-21,1.5,421400.0,2,23.7,Yes,0
+E1732,People,Senior,Hyderabad,02/02/2016,9.6,1375500.0,4,9.1,Yes,0
+E1769,Sales,Junior,Bengaluru,2024-07-09,1.0,479100.0,3,35.3,No,0
+E1581,Operations,Mid,Mumbai,2022-02-09,3.4,775900.0,3,49.3,Yes,0
+E1223,Marketing,Mid,Pune,2022-05-28,3.4,811600.0,4,11.2,Yes,0
+E1480,Engineering,Mid,Bengaluru,2020-07-12,5.3,804900.0,4,44.4,No,0
+E1722,People,Senior,Mumbai,2016-06-22,9.5,1291700.0,4,76.2,Yes,0
+E1514,Operations,Senior,Hyderabad,06/29/2015,10.1,1319700.0,1,44.4,Yes,0
+E1717,Sales,Mid,Mumbai,04/17/2020,5.2,802200.0,5,30.4,Yes,0
+E1369,Engineering,Mid,Hyderabad,26 Sep 2019,5.9,869600.0,1,13.1,No,0
+E1747,Engineering,Senior,Bengaluru,01/24/2018,7.6,1468600.0,3,7.8,No,0
+E1182,Operations,Lead,Mumbai,2013-03-07,12.7,1810200.0,3,12.8,No,0
+E1542,Marketing,Lead,Mumbai,2010-08-09,15.4,1835600.0,3,30.3,Yes,1
+E1185,Engineering,Mid,Pune,2023-04-04,2.5,1000700.0,4,34.1,Yes,0
+E1531,Engineering,Junior,Hyderabad,2024-06-16,1.1,547500.0,3,13.7,No,0
+E1132,Sales,Senior,Bengaluru,2018-01-03,7.8,1477900.0,3,28.2,Yes,0
+E1549,Engineering,Mid,Mumbai,2019-11-09,6.0,959400.0,3,34.3,No,0
+E1234,Engineering,Lead,Bengaluru,07 Nov 2008,16.7,2568000.0,4,37.1,No,0
+E1485,Sales,Mid,Bengaluru,2019-07-13,6.1,883300.0,2,58.4,No,0
+E1718,Finance,Mid,Bengaluru,2019-11-02,5.7,777200.0,3,27.7,No,0
+E1019,People,Senior,Bengaluru,2018-08-11,7.2,1411700.0,3,23.4,Yes,1
+E1407,Operations,Senior,Bengaluru,2018-01-31,7.9,1279600.0,4,20.1,No,0
+E1874,Sales,Mid,Bengaluru,05/10/2022,3.6,808200.0,3,39.4,Yes,0
+E1560,Sales,Junior,Mumbai,18 Dec 2023,1.9,475000.0,4,22.6,No,0
+E1756,Engineering,Mid,Bengaluru,2018-11-03,6.8,960000.0,4,14.5,Yes,0
+E1607,Sales,Lead,Hyderabad,2014-01-01,11.8,2378600.0,4,7.4,Yes,0
+E1403,Sales,Mid,Pune,12 Feb 2018,7.4,843000.0,3,16.1,No,0
+E1831,Sales,Lead,Mumbai,2010-05-05,15.3,2051800.0,4,18.9,Yes,0
+E1450,Sales,Senior,Bengaluru,2016-11-03,8.8,1460000.0,4,38.6,No,0
+E1796,Sales,Mid,Bengaluru,22 Oct 2023,1.7,695800.0,4,13.6,Yes,0
+E1116,Operations,Mid,Mumbai,2021-09-16,4.0,669200.0,4,9.0,No,0
+E1148,Sales,Senior,Bengaluru,2016-02-05,9.7,1560900.0,2,35.4,Yes,1
+E1556,People,Lead,Pune,07 Nov 2012,13.0,1806200.0,4,26.8,No,0
+E1808,Sales,Junior,Pune,2025-01-21,0.9,492900.0,5,18.8,Yes,0
+E1246,Engineering,Senior,Pune,2018-02-04,7.9,1681700.0,3,6.0,No,0
+E1217,Operations,Mid,Hyderabad,2020-03-12,5.4,666500.0,4,32.6,Yes,0
+E1111,People,Junior,Bengaluru,22 Nov 2023,1.8,435800.0,4,33.9,No,0
+E1715,Engineering,Junior,Bengaluru,2025-09-14,0.2,464100.0,3,77.2,No,0
+E1037,Engineering,Mid,Bengaluru,2021-11-28,3.7,863300.0,2,19.4,No,0
+E1366,Sales,Senior,Delhi,11/06/2017,8.1,1509900.0,3,2.7,No,0
+E1118,Sales,Mid,Pune,2022-11-25,3.1,803200.0,3,17.8,No,0
+E1233,Operations,Mid,Hyderabad,2019-10-04,5.9,794400.0,4,31.6,No,0
+E1716,Sales,Senior,Bengaluru,13 Dec 2015,9.6,1343500.0,5,38.1,Yes,1
+E1023,Engineering,Junior,Mumbai,2024-03-15,1.3,504700.0,5,24.9,No,0
+E1258,Marketing,Senior,Bengaluru,2014-09-14,11.3,1508500.0,2,16.5,Yes,1
+E1309,Operations,Lead,Delhi,2012-05-17,13.1,1698200.0,2,22.3,No,1
+E1602,Sales,Junior,Delhi,2024-03-20,1.7,492000.0,4,,Yes,0
+E1540,engineering ,Mid,Pune,2020-08-06,4.9,723100.0,3,13.4,No,0
+E1377,Sales,Mid,Delhi,2022-08-07,2.9,858300.0,4,36.7,Yes,1
+E1418,Finance,Senior,Bengaluru,2018-03-07,7.4,1362200.0,3,21.5,No,0
+E1547,Sales,Lead,Delhi,2011-03-26,14.3,2197600.0,3,24.5,No,0
+E1853,Engineering,Senior,Mumbai,23 Dec 2017,8.0,1516600.0,2,39.3,Yes,0
+E1207,People,Junior,Delhi,10/07/2024,0.9,348400.0,4,18.2,No,0
+E1143,Operations,Mid,Bengaluru,2019-05-14,6.2,692300.0,3,25.8,No,0
+E1690,Engineering,Mid,Bengaluru,2022-06-24,3.4,,5,34.1,No,0
+E1081,People,Mid,Bengaluru,02/08/2019,6.8,744100.0,2,20.4,No,0
+E1569,Sales,Mid,Mumbai,14 May 2018,7.4,822300.0,3,28.7,Yes,0
+E1827,Engineering,Junior,Pune,2021-04-27,4.2,475200.0,3,25.4,No,0
+E1121,Marketing,Junior,Mumbai,2023-12-12,1.7,485400.0,3,22.8,Yes,0
+E1454,Marketing,Junior,Bengaluru,2021-03-22,4.4,463200.0,4,28.2,No,0
+E1494,Finance,Mid,Mumbai,2020-09-05,4.8,829700.0,4,22.9,Yes,0
+E1026,Sales,Senior,Mumbai,2016-01-24,9.9,1560700.0,2,79.9,No,0
+E1500,Sales,Mid,Hyderabad,2020-06-10,5.5,734000.0,3,52.8,No,0
+E1396,Operations,Senior,Mumbai,2017-05-20,8.4,1191800.0,3,15.3,No,0
+E1776,Sales,Mid,Pune,05/15/2021,4.1,783700.0,4,21.1,No,0
+E1516,Engineering,Mid,Mumbai,2018-06-09,7.4,990500.0,3,,No,0
+E1589,Finance,Senior,Hyderabad,13 Oct 2014,10.9,1685200.0,5,31.4,Yes,0
+E1828,Engineering,Mid,,2018-10-28,7.0,852400.0,4,25.7,Yes,0
+E1647,Sales,Senior,Mumbai,2015-02-05,10.8,1283500.0,3,9.2,No,0
+E1318,Engineering,Mid,Mumbai,2020-02-03,5.6,882900.0,3,10.9,No,0
+E1435,Engineering,Senior,Hyderabad,2016-04-08,9.5,1517100.0,4,32.6,No,1
+E1218,Engineering,Lead,Delhi,04 Oct 2011,14.0,2593400.0,3,7.2,No,0
+E1335,Engineering,Junior,Delhi,2023-10-18,1.9,530700.0,3,24.5,No,1
+E1781,Sales,Senior,Delhi,2016-08-29,8.9,1561300.0,5,7.0,No,0
+E1296,engineering ,Mid,Pune,2019-03-02,6.4,635100.0,2,21.0,Yes,0
+E1667,People,Senior,Pune,2017-02-08,8.7,1389500.0,4,9.8,No,0
+E1721,Operations,Senior,Mumbai,2015-11-22,9.6,,3,28.7,No,0
+E1845,Marketing,Mid,Bengaluru,2021-08-10,4.1,804500.0,4,13.9,No,0
+E1284,Operations,Lead,Pune,2012-07-23,13.2,2109800.0,4,5.3,Yes,1
+E1022,Marketing,Mid,Mumbai,04 May 2021,4.2,752000.0,3,13.7,Yes,0
+E1227,Marketing,Junior,Pune,2025-07-08,0.2,413300.0,3,3.7,Yes,0
+E1720,Engineering,Senior,Bengaluru,2015-04-01,10.5,1843300.0,4,48.9,Yes,1
+E1002,Operations,Lead,Mumbai,2011-04-07,14.4,2016100.0,4,9.4,Yes,0
+E1445,Sales,Mid,Bengaluru,2015-11-07,9.8,769600.0,4,38.9,Yes,0
+E1548,Sales,Senior,Mumbai,2016-04-01,9.3,1268400.0,3,38.4,No,0
+E1029,Sales,Senior,Delhi,2018-07-16,7.2,1479000.0,4,2.6,Yes,0
+E1498,Sales,Junior,Hyderabad,2025-06-17,0.2,461100.0,2,42.5,No,0
+E1457,Sales,Mid,Delhi,2024-08-28,1.2,756600.0,3,9.1,Yes,1
+E1005,Operations,Mid,Bengaluru,2022-12-28,2.9,705100.0,4,28.5,No,0
+E1751,Finance,Senior,Delhi,02 Sep 2016,9.1,1334300.0,3,15.8,Yes,0
+E1281,Sales,Junior,Delhi,05 Oct 2022,3.0,421500.0,3,20.1,No,0
+E1032,Engineering,Lead,Bengaluru,2012-02-14,13.6,2554100.0,3,15.3,No,1
+E1421,Operations,Mid,Bengaluru,02/07/2021,4.4,773300.0,4,23.8,Yes,0
+E1765,Operations,Mid,Bengaluru,15 Mar 2021,4.5,736300.0,5,14.5,Yes,0
+E1627,Engineering,Senior,Bengaluru,22 Oct 2017,7.9,1307000.0,3,18.6,Yes,0
+E1156,Sales,Mid,Mumbai,2021-08-28,4.3,759200.0,5,25.2,No,0
+E1887,Engineering,Junior,Delhi,02/05/2022,3.4,534800.0,2,12.4,No,0
+E1519,Marketing,Mid,Bengaluru,2018-09-14,7.0,766200.0,2,10.2,No,1
+E1844,Sales,Mid,,2022-02-20,3.8,894200.0,4,15.8,No,0
+E1855,Engineering,Junior,Mumbai,04 Aug 2024,0.9,536700.0,5,12.7,Yes,0
+E1586,People,Lead,Bengaluru,18 Oct 2010,15.0,2246900.0,3,7.7,Yes,0
+E1259,Engineering,Mid,Bengaluru,2019-06-15,6.4,952500.0,4,20.9,No,0
+E1297,Operations,Lead,Mumbai,2012-11-18,12.7,1976000.0,3,1.7,Yes,0
+E1655,Operations,Junior,Bengaluru,15 Oct 2023,2.2,353400.0,2,29.2,Yes,0
+E1502,Operations,Senior,Mumbai,2015-02-04,10.5,"1,302,000",4,,No,0
+E1470,Engineering,Senior,Hyderabad,2018-12-11,6.9,1679100.0,4,2.9,No,0
+E1553,Engineering,Junior,Bengaluru,2020-02-02,5.4,547600.0,5,11.8,No,0
+E1814,Sales,Mid,Pune,26 Feb 2021,4.5,838900.0,3,7.0,Yes,1
+E1010,Engineering,Senior,Bengaluru,2016-08-28,9.2,1702200.0,5,17.4,No,0
+E1691,Engineering,Senior,Bengaluru,04/12/2016,9.3,1478400.0,4,50.9,No,1
+E1007,Operations,Senior,,2014-06-05,11.2,1233800.0,4,22.3,No,1
+E1208,Operations,Senior,Bengaluru,2017-12-08,8.0,1085400.0,3,15.4,No,0
+E1660,Engineering,Senior,Delhi,2016-05-19,9.6,1563700.0,2,16.0,No,0
+E1375,People,Mid,Pune,11/15/2022,2.6,668800.0,5,26.0,No,0
+E1598,Finance,Mid,Mumbai,14 Sep 2021,4.0,951400.0,4,12.4,No,0
+E1414,engineering ,Mid,Pune,2017-10-25,8.0,784400.0,4,4.5,Yes,0
+E1291,Engineering,Mid,Bengaluru,2020-03-25,5.4,"1,076,300",3,16.6,No,1
+E1049,Operations,Senior,Hyderabad,2015-03-14,10.5,1321800.0,2,42.7,Yes,0
+E1686,Operations,Senior,Hyderabad,2016-06-21,9.3,1245600.0,4,56.3,No,0
+E1609,Engineering,Junior,Hyderabad,2022-05-02,3.2,519500.0,5,37.1,Yes,0
+E1727,People,Junior,Pune,2024-01-13,1.6,426800.0,3,20.1,No,0
+E1448,Marketing,Junior,Delhi,2024-11-11,0.8,,4,34.9,No,0
+E1052,Engineering,Senior,Delhi,2015-06-18,10.0,2015800.0,4,30.3,Yes,0
+E1308,Engineering,Mid,Delhi,2022-07-30,3.2,847600.0,2,30.6,No,0
+E1315,Operations,Senior,Delhi,15 Dec 2016,8.9,1282000.0,4,27.9,Yes,0
+E1488,People,Senior,Bengaluru,2017-02-18,8.5,1181700.0,3,26.5,No,0
+E1591,Marketing,Mid,Mumbai,06 May 2022,3.2,845100.0,4,5.9,Yes,0
+E1742,Operations,Junior,Delhi,04 Aug 2023,2.3,384800.0,4,36.9,Yes,1
+E1391,Operations,Mid,Delhi,2020-05-27,5.1,670500.0,2,9.0,No,0
+E1862,Finance,Junior,Pune,2022-11-03,2.8,397500.0,5,23.1,No,0
+E1501,Operations,Junior,Pune,2024-02-17,1.4,420900.0,3,11.9,Yes,0
+E1119,Operations,Junior,Mumbai,01 Jul 2025,0.2,376400.0,4,44.6,Yes,0
+E1083,Engineering,Junior,Mumbai,05 Dec 2023,1.7,597800.0,3,8.0,Yes,0
+E1394,Engineering,Junior,Hyderabad,30 Mar 2024,1.7,519900.0,4,17.8,Yes,0
+E1885,Engineering,Mid,,2022-03-14,3.5,784400.0,5,21.0,No,0
+E1653,Engineering,Junior,Mumbai,2022-01-26,3.7,478700.0,3,45.0,No,0
+E1527,People,Mid,Pune,02 May 2021,4.3,717300.0,3,9.2,No,0
+E1639,Operations,Junior,Hyderabad,2022-02-21,3.5,450000.0,5,24.8,No,0
+E1086,engineering ,Mid,Bengaluru,05/30/2023,2.3,,4,9.0,No,0
+E1171,Marketing,Senior,Hyderabad,2018-04-05,7.5,1398500.0,4,6.9,No,0
+E1027,People,Mid,Hyderabad,18 Nov 2022,2.6,755300.0,3,20.9,No,0
+E1785,engineering ,Mid,Mumbai,03/07/2020,5.5,957600.0,3,45.7,No,0
+E1746,Operations,Mid,Mumbai,05 Mar 2019,6.5,661900.0,5,3.1,No,0
+E1510,Finance,Senior,Bengaluru,10/07/2015,9.7,1483800.0,3,23.9,No,1
+E1748,Operations,Junior,Pune,2023-07-29,2.4,426600.0,3,,No,1
+E1662,Engineering,Senior,Mumbai,2017-10-09,7.8,1587500.0,3,57.1,No,1
+E1693,Engineering,Junior,Bengaluru,25 Jul 2025,0.2,493800.0,3,20.5,Yes,0
+E1491,Engineering,Junior,Delhi,08/14/2023,2.1,528600.0,3,62.3,No,0
+E1579,Engineering,Senior,Hyderabad,16 Feb 2018,7.7,1728900.0,4,7.6,No,0
+E1736,Sales,Mid,Delhi,2020-08-08,5.1,844700.0,4,59.9,No,0
+E1252,Engineering,Mid,Pune,2021-06-27,4.0,947500.0,5,8.7,No,0
+E1552,Engineering,Junior,,2023-07-30,2.2,623800.0,4,56.7,No,0
+E1810,People,Mid,Hyderabad,2020-07-03,5.0,722400.0,2,36.8,No,0
+E1772,Engineering,Junior,Mumbai,29 Oct 2023,2.0,513300.0,4,11.8,Yes,0
+E1131,Marketing,Senior,Bengaluru,01 Jun 2014,11.2,1513400.0,3,11.8,No,0
+E1699,Engineering,Senior,Mumbai,22 Oct 2016,8.8,1719700.0,2,52.3,Yes,1
+E1626,Operations,Mid,Bengaluru,2021-02-23,4.4,841700.0,3,23.1,No,0
+E1708,engineering ,Mid,Pune,2021-01-16,4.8,,3,11.9,No,0
+E1565,Operations,Mid,Bengaluru,2020-01-12,5.9,697800.0,3,10.9,No,0
+E1125,Engineering,Junior,Pune,2025-09-06,0.2,579000.0,4,47.5,No,1
+E1009,Sales,Junior,Hyderabad,2023-11-08,1.8,,3,13.6,Yes,1
+E1078,Marketing,Junior,Bengaluru,2024-03-11,1.7,412700.0,5,34.7,Yes,0
+E1543,Operations,Mid,Bengaluru,2020-09-15,5.0,780500.0,4,12.4,No,0
+E1484,Sales,Lead,Mumbai,2010-07-02,15.1,2357100.0,3,23.2,Yes,0
+E1820,Engineering,Junior,Hyderabad,2022-06-29,3.5,512800.0,3,51.8,Yes,1
+E1587,People,Senior,Mumbai,2016-06-09,9.3,1332300.0,3,44.9,Yes,0
+E1054,Engineering,Senior,Delhi,03 Jun 2013,12.4,1540800.0,1,24.6,No,0
+E1388,Operations,Lead,Mumbai,04 Sep 2010,15.1,1750800.0,5,24.6,Yes,0
+E1670,Sales,Mid,Bengaluru,2020-01-10,5.8,671200.0,4,23.0,No,0
+E1352,Engineering,Mid,Bengaluru,2020-11-23,4.8,845800.0,4,19.7,No,0
+E1487,Marketing,Junior,Pune,2023-11-25,1.6,426800.0,3,12.1,Yes,0
+E1566,Engineering,Junior,Pune,2023-10-22,2.1,543000.0,4,37.3,Yes,0
+E1250,Sales,Mid,Mumbai,2018-06-07,7.3,755100.0,4,8.4,No,0
+E1443,Operations,Mid,Mumbai,10/05/2017,8.1,854800.0,3,12.4,Yes,0
+E1165,Sales,Mid,Pune,2021-07-25,3.9,856400.0,4,8.2,No,0
+E1505,Sales,Senior,Delhi,2016-11-23,9.0,1655200.0,1,43.6,Yes,1
+E1264,Engineering,Junior,Mumbai,2025-09-19,0.2,521400.0,3,,Yes,0
+E1051,Marketing,Junior,Mumbai,31 Aug 2024,1.0,414700.0,3,30.0,No,1
+E1107,Finance,Junior,Mumbai,2024-08-18,1.2,476100.0,3,16.7,No,1
+E1059,Marketing,Junior,Hyderabad,2025-10-02,0.2,,3,10.3,Yes,1
+E1804,Operations,Junior,Delhi,03/08/2022,3.7,358000.0,4,13.2,No,0
+E1478,Sales,Lead,Mumbai,19 Sep 2012,13.0,2233600.0,3,22.1,No,0
+E1597,Finance,Junior,Mumbai,08 Apr 2025,0.2,485600.0,3,36.2,No,0
+E1850,People,Senior,Bengaluru,2016-06-17,9.1,1272700.0,3,24.1,No,0
+E1499,Engineering,Junior,Bengaluru,12/18/2023,1.7,494900.0,4,29.5,No,0
+E1181,Operations,Junior,Delhi,2022-12-03,2.7,437100.0,5,40.1,No,0
+E1048,Sales,Mid,Bengaluru,17 May 2020,5.1,789700.0,3,62.8,Yes,0
+E1466,Operations,Junior,Bengaluru,12/19/2022,3.0,357600.0,4,30.3,No,0
+E1711,engineering ,Mid,Delhi,2022-03-26,3.7,934400.0,3,12.4,Yes,1
+E1749,Engineering,Senior,Bengaluru,2016-11-30,8.7,1545800.0,3,30.4,No,0
+E1743,Engineering,Mid,Bengaluru,23 May 2020,5.2,952300.0,4,25.5,No,0
+E1198,People,Lead,Pune,2011-06-23,14.4,2116900.0,3,9.4,No,0
+E1877,Engineering,Mid,Hyderabad,2021-04-18,4.5,956600.0,3,11.5,Yes,0
+E1279,Operations,Junior,Bengaluru,2023-01-22,2.9,402400.0,4,26.0,No,0
+E1331,Sales,Mid,Pune,2019-12-20,5.7,849100.0,4,21.1,No,0
+E1840,Engineering,Senior,Bengaluru,01/25/2015,10.6,1542900.0,2,30.4,Yes,0
+E1190,Engineering,Mid,Pune,2021-10-15,3.8,1006700.0,3,10.3,No,0
+E1534,Finance,Mid,Mumbai,2020-09-02,5.0,931500.0,3,12.0,Yes,1
+E1222,Marketing,Senior,Mumbai,2016-01-13,9.8,1445300.0,3,40.7,Yes,0
+E1114,Engineering,Junior,Hyderabad,2025-04-09,0.7,480100.0,4,43.6,No,0
+E1151,Operations,Mid,Pune,03 Jul 2020,5.3,716500.0,3,,No,0
+E1460,Sales,Mid,Mumbai,19 Jun 2019,6.0,868500.0,4,26.4,No,0
+E1688,Sales,Junior,Delhi,2025-08-24,0.2,432600.0,4,27.9,No,1
+E1187,Engineering,Mid,Pune,07 Feb 2022,3.9,982100.0,4,9.5,No,0
+E1073,Finance,Mid,Bengaluru,2017-10-13,8.0,782400.0,3,10.3,Yes,0
+E1729,Sales,Junior,Mumbai,2021-10-28,3.8,444100.0,5,15.8,Yes,0
+E1240,Sales,Mid,Pune,13 Aug 2021,4.3,784000.0,5,6.3,No,0
+E1145,People,Mid,Pune,02/04/2019,6.6,,3,19.3,No,0
+E1562,Sales,Junior,Bengaluru,2020-03-04,5.3,512600.0,3,19.0,No,0
+E1255,Sales,Mid,Mumbai,2016-11-13,8.9,763200.0,3,17.1,No,0
+E1095,Operations,Senior,Delhi,2018-04-15,7.3,1308300.0,3,,Yes,0
+E1610,Operations,Junior,Bengaluru,2022-11-26,3.0,359000.0,2,35.5,No,0
+E1719,Marketing,Senior,Mumbai,2015-03-10,10.7,1359200.0,3,42.2,No,0
+E1371,Engineering,Lead,Hyderabad,2010-02-26,15.4,2790700.0,4,12.2,No,0
+E1370,Engineering,Mid,Bengaluru,2020-12-28,5.0,,3,17.6,No,1
+E1515,Sales,Mid,Delhi,2019-10-15,5.7,807200.0,5,13.9,Yes,0
+E1412,People,Junior,Hyderabad,2024-11-10,0.6,462200.0,5,16.5,Yes,0
+E1493,Sales,Senior,,2017-11-30,7.9,1400500.0,3,13.3,Yes,1
+E1638,Sales,Mid,Delhi,2021-11-14,4.1,870700.0,5,10.5,No,0
+E1800,People,Junior,Mumbai,2024-02-20,1.4,392600.0,2,12.2,Yes,1
+E1161,People,Junior,Bengaluru,2025-09-06,0.3,451900.0,3,23.0,Yes,0
+E1426,Sales,Senior,Bengaluru,2015-09-02,10.0,1398000.0,4,11.7,No,0
+E1243,Finance,Junior,Delhi,28 Feb 2024,1.8,455600.0,5,44.3,No,0
+E1680,Engineering,Lead,Mumbai,2012-01-23,13.8,2610200.0,2,14.6,Yes,0
+E1416,Operations,Mid,Bengaluru,09/17/2020,5.1,761200.0,1,31.8,No,0
+E1343,Sales,Junior,Bengaluru,2024-04-29,1.4,452900.0,4,20.1,Yes,0
+E1322,Finance,Mid,Mumbai,2020-02-04,5.9,869700.0,4,13.3,Yes,0
+E1561,Engineering,Mid,Bengaluru,2017-10-12,7.8,896600.0,4,9.9,No,0
+E1648,Engineering,Junior,Mumbai,19 Jun 2022,3.5,,3,28.0,No,0
+E1030,Sales,Mid,Bengaluru,2021-10-03,3.8,799400.0,3,9.9,No,1
+E1373,People,Mid,Bengaluru,09/08/2019,6.3,629900.0,3,10.0,Yes,0
+E1465,Sales,Senior,Pune,22 Sep 2015,9.9,1380900.0,3,16.0,No,0
+E1706,Marketing,Junior,Hyderabad,10 Feb 2023,2.8,389500.0,4,22.4,No,0
+E1056,Operations,Mid,,2021-03-30,4.7,741900.0,5,17.6,No,1
+E1486,Sales,Mid,Mumbai,2021-03-07,4.7,831800.0,5,10.6,Yes,1
+E1509,Engineering,Senior,Mumbai,2016-06-05,9.1,1461300.0,4,42.2,No,1
+E1422,Engineering,Junior,Pune,2021-02-14,4.6,473400.0,5,37.3,No,0
+E1713,Finance,Mid,Delhi,2019-09-25,6.0,897900.0,4,36.4,No,0
+E1149,People,Mid,Delhi,2017-11-19,7.6,770900.0,3,18.8,No,0
+E1533,Operations,Senior,Hyderabad,26 Apr 2016,9.6,1356800.0,4,24.5,No,0
+E1183,Sales,Mid,Bengaluru,2022-06-04,3.5,832800.0,2,20.5,No,0
+E1000,Marketing,Junior,Delhi,2023-08-20,2.3,432400.0,4,11.4,No,0
+E1387,Operations,Mid,Mumbai,2020-11-29,5.0,786200.0,3,29.6,No,0
+E1564,Engineering,Lead,Mumbai,2010-04-14,15.6,2685900.0,3,21.2,No,0
+E1126,Engineering,Senior,Bengaluru,2016-11-02,9.1,1561000.0,4,19.2,Yes,0
+E1294,Finance,Junior,Pune,2023-12-24,1.5,456100.0,4,14.9,No,0
+E1044,Marketing,Junior,Mumbai,07 Jul 2025,0.2,415800.0,3,65.3,No,0
+E1676,Engineering,Mid,Delhi,2021-02-06,4.7,917500.0,3,23.7,No,0
+E1872,Engineering,Lead,Pune,30 Dec 2012,12.9,2657400.0,2,46.4,Yes,0
+E1313,engineering ,Lead,Mumbai,2011-09-15,14.0,2519200.0,4,22.8,No,0
+E1823,Marketing,Junior,Bengaluru,01 Aug 2023,2.3,439600.0,3,22.8,No,0
+E1606,Engineering,Senior,Delhi,2017-12-27,7.6,1696000.0,4,41.7,No,0
+E1109,Sales,Senior,Delhi,2015-10-29,9.8,1244200.0,5,18.1,Yes,0
+E1871,Engineering,Senior,Bengaluru,2015-09-11,9.9,1654900.0,5,42.8,Yes,0
+E1764,Sales,Junior,Bengaluru,17 Jul 2025,0.2,437900.0,3,15.7,No,0
+E1058,People,Mid,Hyderabad,07 Jan 2020,5.6,781500.0,5,21.9,Yes,0
+E1393,Finance,Lead,Hyderabad,2010-09-13,14.8,2699000.0,4,14.4,No,0
+E1818,Sales,Junior,Hyderabad,2024-10-23,1.1,,2,23.4,Yes,0
+E1456,engineering ,Junior,Pune,2023-03-11,2.6,433200.0,3,15.9,No,1
+E1599,Sales,Senior,Mumbai,2018-01-31,7.7,1192400.0,4,9.8,No,0
+E1360,Engineering,Senior,Mumbai,2015-10-21,9.9,1940900.0,4,35.8,Yes,0
+E1897,Sales,Lead,Pune,2011-08-10,14.1,2400300.0,3,32.5,No,0
+E1709,Marketing,Junior,Hyderabad,2023-10-28,2.1,"388,100",3,16.2,No,0
+E1439,Engineering,Senior,Bengaluru,01 Apr 2017,8.6,1694200.0,4,11.3,No,0
+E1174,Engineering,Junior,Hyderabad,2024-08-30,1.3,613400.0,3,30.5,Yes,0
+E1122,Operations,Mid,Bengaluru,2021-09-08,4.0,637400.0,2,8.3,No,0
